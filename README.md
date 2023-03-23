@@ -26,32 +26,25 @@
 
 <hr><br/><br/>
 
-# 仓库介绍
 
-
-
-
-# 镜像网站
-
-
-
-
-# 大厂产品
-
-[回到目录👆](#目录)
 
 <details open="open">
-
   <summary><h1>仓库介绍</h1></summary>
-  流程：接受连接 -> 读取数据 -> 解析HTTP抱文 -> 处理请求 -> 封装响应 -> 发送响应
- 
-![servlet逻辑](https://user-images.githubusercontent.com/79641956/169803890-118191be-aa30-4b07-88f8-a70b14ade969.png)
+
  
 </details>
 
 <details open="open">
-  <summary><h6>Nio模式下的一主多从Reactor模型示意图</h6></summary>
-  
-![image](https://user-images.githubusercontent.com/79641956/172405455-ea0be3b2-9ec9-4773-a081-fc95cf5b8898.png)
+  <summary><h1>镜像网站</h1></summary>
+
  
 </details>
+
+<details open="open">
+<summary><h1>大厂产品</h1></summary>
+
+ 
+</details>
+
+
+[👆回到目录👆](#目录)
