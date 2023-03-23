@@ -33,7 +33,7 @@
     <th>描述</th>
     <tr>
         <td>
-            <img src="./icon/BAI%20Chat.png">
+            <img src="./icon/BAI%20Chat.png" width = "30" height = "30">
             <a href="https://chatbot.theb.ai/">BAI Chat</a>
         </td>
         <td>
