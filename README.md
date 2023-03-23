@@ -33,8 +33,10 @@
     <th>描述</th>
     <tr>
         <td>
-            <img src="./icon/BAI%20Chat.png" width = "30" height = "30">
-            <a href="https://chatbot.theb.ai/">BAI Chat</a>
+            <div style="height:30px;line-height:30px;">
+                <img src="./icon/BAI%20Chat.png" style="width:30px; height:30px;">
+                <a  href="https://chatbot.theb.ai/">BAI Chat</a>
+            </div>
         </td>
         <td>
             <ul style="list-style-type: disc;">
