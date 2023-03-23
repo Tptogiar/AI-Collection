@@ -1,4 +1,4 @@
-# ai-collect
+# AI收集
 
 
 <hr/>
