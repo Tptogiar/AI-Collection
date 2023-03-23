@@ -34,8 +34,8 @@
     <tr>
         <td>
             <div style="height:30px;line-height:30px;">
-                <img src="./icon/BAI%20Chat.png" style="width:30px; height:30px;">
-                <a  href="https://chatbot.theb.ai/">BAI Chat</a>
+                <img src="./icon/BAI%20Chat.png" style="width:20px; height:20px;">
+                <a  style="font-size: 25px;" href="https://chatbot.theb.ai/">BAI Chat</a>
             </div>
         </td>
         <td>
