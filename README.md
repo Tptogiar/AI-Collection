@@ -41,6 +41,7 @@
                 <li>科学上网</li>
                 <li>界面操作体验较好</li>
                 <li>可以存储和导入Prompt</li>
+                <li>GPT-3.5 / ChatGPT</li>
             </ul>
         </td> 
     </tr>
