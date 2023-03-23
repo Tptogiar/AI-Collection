@@ -30,13 +30,13 @@
 <table>
     <th>网站
     </th>
-    <th>描述</th>
+    <th>        描述        </th>
     <tr>
-        <td width="50%">
+        <td>
             <img src="./icon/BAI%20Chat.png">
             <a href="https://chatbot.theb.ai/">BAI Chat</a>
         </td>
-        <td width="70%">
+        <td>
             <ul style="list-style-type: disc;">
                 <li>免费直接用</li>
                 <li>科学上网</li>
