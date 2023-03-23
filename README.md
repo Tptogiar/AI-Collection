@@ -30,7 +30,7 @@
 <table>
     <th>网站
     </th>
-    <th>        描述        </th>
+    <th>描述</th>
     <tr>
         <td>
             <img src="./icon/BAI%20Chat.png">
