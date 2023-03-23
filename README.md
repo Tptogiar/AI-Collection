@@ -33,9 +33,9 @@
     <th>描述</th>
     <tr>
         <td>
-            <div style="height:30px;line-height:30px;">
-                <img src="./icon/BAI%20Chat.png" style="width:20px; height:20px;">
-                <a  style="font-size: 30px;" href="https://chatbot.theb.ai/">BAI Chat</a>
+            <div >
+                <img src="./icon/BAI%20Chat.png" style="width:15px; height:15px;">
+                <a   href="https://chatbot.theb.ai/">BAI Chat</a>
             </div>
         </td>
         <td>
