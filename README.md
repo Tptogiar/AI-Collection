@@ -34,7 +34,7 @@
   
     <tr>
         <td>
-            <div >
+            <div>
                 <img src="./icon/BAI%20Chat.png" width="15"; height="15">
                 <a   href="https://chatbot.theb.ai/">BAI Chat</a>
             </div>
@@ -52,7 +52,7 @@
   
     <tr>
         <td>
-            <div >
+            <div>
                 <img src="./icon/BAI%20Chat.png" width="15"; height="15">
                 <a   href="https://chat.forchange.cn/">AI EDU</a>
             </div>
