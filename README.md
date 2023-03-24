@@ -47,6 +47,25 @@
                 <li>GPT-3.5 / ChatGPT</li>
             </ul>
         </td> 
+        
+    </tr>
+    <tr>
+        <td>
+            <div >
+                <img src="./icon/BAI%20Chat.png" width="15"; height="15">
+                <a   href="https://chat.forchange.cn/">AI EDU</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免费直接用</li>
+                <li>站内免费的key，每天可用十次</li>
+                <li>任意打赏可获得专属站内key，30天可用9999次</li>
+                <li>不需要科学science上网</li>
+                <li>界面操作体验较好</li>
+            </ul>
+        </td> 
+        
     </tr>
 </table> 
 
