@@ -28,8 +28,8 @@
   <summary><h1>镜像网站</h1></summary>
 
 <table>
-    <th>网站
-    </th>
+  
+    <th>网站</th>
     <th>描述</th>
   
     <tr>
@@ -48,7 +48,6 @@
                 <li>GPT-3.5 / ChatGPT</li>
             </ul>
         </td> 
-        
     </tr>
   
     <tr>
