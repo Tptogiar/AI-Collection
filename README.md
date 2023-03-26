@@ -28,14 +28,12 @@
   <summary><h1>镜像网站</h1></summary>
 
 <table>
-  
     <th>网站</th>
     <th>描述</th>
-  
     <tr>
         <td>
             <div>
-                <img src="./icon/BAI%20Chat.png" width="15"; height="15">
+                <img src="./icon/BAIChat.png" width="15"; height="15">
                 <a   href="https://chatbot.theb.ai/">BAI Chat</a>
             </div>
         </td>
@@ -49,11 +47,10 @@
             </ul>
         </td> 
     </tr>
-  
     <tr>
         <td>
             <div>
-                <img src="./icon/BAI%20Chat.png" width="15"; height="15">
+                <img src="./icon/AIEDU.png" width="15"; height="15">
                 <a   href="https://chat.forchange.cn/">AI EDU</a>
             </div>
         </td>
@@ -67,12 +64,42 @@
             </ul>
         </td> 
     </tr>
-  
+    <tr>
+        <td>
+            <div>
+                <img src="./icon/FastGPT.png" width="15"; height="15">
+                <a   href="https://fastgpt.app/">Fast GPT</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免费直接用</li>
+                <li>科学science上网</li>
+                <li>界面基本和官方一样</li>
+                <li>可以选择模型版本</li>
+                <li>可以设置自己的key</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <img src="./icon/ChatForAI.png" width="15"; height="15">
+                <a   href="https://chatforai.com/">Chat For AI</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免费直接用</li>
+                <li>科学science上网</li>
+                <li>界面操作与官方差异比较大</li>
+                <li>可以设置自己的key</li>
+            </ul>
+        </td> 
+    </tr>
 </table> 
-
-
-
 </details>
+
 
 <details open="open">
 <summary><h1>大厂产品</h1></summary>
