@@ -525,11 +525,14 @@
 <table>
     <tr>
         <td>
-                <a href="https://magickpen.com/">MagickPen</a>
+            <a href="https://magickpen.com/">MagickPen</a>
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>文本内容生成</li>
+                <li>提供在线手写识别和转换服务</li>
+                <li>支持多种语言和字体的手写输入</li>
+                <li>可以在网页上直接书写或上传手写图片/文件</li>
+                <li>使用AI技术进行手写文字识别和转换，提高准确率</li>
             </ul>
         </td> 
     </tr>
@@ -539,7 +542,10 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>文本内容生成</li>
+                <li>提供在线定制化LOGO设计服务</li>
+                <li>通过AI技术生成多样化的LOGO设计方案</li>
+                <li>用户可以自由选择、编辑、调整LOGO设计方案</li>
+                <li>价格相对较为亲民，可满足个人和小型企业的需求</li>
             </ul>
         </td> 
     </tr>
@@ -549,7 +555,10 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>文本内容生成</li>
+                <li>提供在线AI图像处理和增强服务</li>
+                <li>支持多种常见的图像处理需求，如去背景、图像压缩等</li>
+                <li>使用AI技术进行图像处理和增强，效果更加稳定和高质量</li>
+                <li>可以通过网页、API等方式接入服务，并集成到其他应用中</li>
             </ul>
         </td> 
     </tr>
@@ -559,7 +568,10 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>文本内容生成</li>
+                <li>提供在线字体识别和转换服务</li>
+                <li>支持多种语言和字体的输入和输出</li>
+                <li>可以识别和转换手写、印刷、数字等多种类型的字体</li>
+                <li>使用AI技术进行字体识别、匹配和转换，提高准确率</li>
             </ul>
         </td> 
     </tr>
@@ -569,13 +581,14 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>文本内容生成</li>
+                <li>提供在线文本摘要和生成服务</li>
+                <li>支持对大篇幅文章进行快速的摘要处理</li>
+                <li>可以根据用户输入的关键字或主题，自动生成相关文章</li>
+                <li>使用AI技术进行文本处理和生成，提高效率和准确率</li>
             </ul>
         </td> 
     </tr>
-
 </table>
-
 
 
 <h4>理解内容</h4>
@@ -587,6 +600,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>自动提取B站视频的中心思想或总结</li>
+                <li>支持多语种文本理解和生成</li>
+                <li>可用于快速浏览学习、资讯、漫画等内容</li>
             </ul>
         </td> 
     </tr>
@@ -597,6 +612,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>自动获取YouTube视频的摘要或简介</li>
+                <li>支持自定义摘要长度和关键词提取</li>
+                <li>可以帮助用户快速了解视频主题和内容</li>
             </ul>
         </td> 
     </tr>
@@ -607,6 +624,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>自动提取视频的中心思想或总结</li>
+                <li>支持输出多种格式的文本摘要和可视化结果</li>
+                <li>可以帮助用户快速了解视频内容和主题，提高学习效率</li>
             </ul>
         </td> 
     </tr>
@@ -618,10 +637,12 @@
             <ul style="list-style-type: disc;">
                 <li>提高阅读效率</li>
                 <li>总结价值内容</li>
+                <li>支持多种文件类型的文本摘要和个性化定制</li>
             </ul>
         </td> 
     </tr>
-</table>  
+</table>
+
 
 
 
@@ -715,6 +736,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>生成邮件内容</li>
+                <li>自动发送邮件</li>
+                <li>跟踪邮件效果</li>
             </ul>
         </td> 
     </tr>
@@ -725,6 +748,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>邮箱营销</li>
+                <li>自动生成电子邮件主题、正文和呼吁行动（CTA）</li>
+                <li>提供对竞争对手的分析，以及有关营销活动和电子邮件营销策略的建议</li>
             </ul>
         </td> 
     </tr>
@@ -735,6 +760,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>营销内容</li>
+                <li>根据目标受众和品牌风格智能生成社交媒体帖子、博客文章等多种类型的内容</li>
+                <li>提供编辑工具和支持定制化的选项</li>
             </ul>
         </td> 
     </tr>
@@ -745,6 +772,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>营销内容</li>
+                <li>通过可视化拖放界面，自定义生成各种类型的多媒体广告、社交媒体帖子和营销文案</li>
+                <li>支持将生成的内容导出为图片、视频和HTML代码等格式</li>
             </ul>
         </td> 
     </tr>
@@ -755,6 +784,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>营销内容</li>
+                <li>根据目标受众和内容类型，智能生成博客文章、电子邮件、社交媒体帖子等多种类型的内容</li>
+                <li>提供编辑工具和支持定制化的选项</li>
             </ul>
         </td> 
     </tr>
@@ -765,6 +796,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>营销内容</li>
+                <li>智能生成品牌语音、标语和广告文案等多种类型的内容</li>
+                <li>支持将生成的内容导出为多种格式，如文本、图片和HTML代码等</li>
             </ul>
         </td> 
     </tr>
@@ -775,6 +808,8 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>营销内容</li>
+                <li>根据目标受众和品牌风格智能生成广告文案、电子邮件、社交媒体帖子等多种类型的内容</li>
+                <li>支持编辑工具和定制化选项</li>
             </ul>
         </td> 
     </tr>
@@ -785,6 +820,9 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>网站SEO</li>
+                <li>提供针对关键词的搜索引擎优化建议和内容创意</li>
+                <li>根据搜索意图和目标受众生成优化文章和元描述等内容</li>
+                <li>可自动化提交网站地图和跟踪排名变化等数据</li>
             </ul>
         </td> 
     </tr>
@@ -795,6 +833,9 @@
         <td>
             <ul style="list-style-type: disc;">
                 <li>PPT或海报</li>
+                <li>智能生成幻灯片、海报和社交媒体帖子等多种类型的视觉内容</li>
+                <li>提供各种模板和设计风格的选项，支持上传自定义图片和图标</li>
+                <li>导出文件格式包括PDF、PNG、JPEG、GIF等</li>
             </ul>
         </td> 
     </tr>
@@ -840,7 +881,8 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>说出的苦恼</li>
+                <li>能够倾听用户说出的苦恼，进行情感分析，并提供安慰和建议。</li>
+                <li>支持多种语言，包括中文、日语等。</li>
             </ul>
         </td> 
     </tr>
@@ -850,7 +892,8 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>构建自己的GPT</li>
+                <li>提供自然语言处理技术，帮助用户轻松构建自己的GPT模型。</li>
+                <li>支持多种语言，包括Python、JavaScript等。</li>
             </ul>
         </td> 
     </tr>
@@ -860,7 +903,8 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>分析最优解</li>
+                <li>基于最先进的自然语言推理技术，可以分析文本并自动找出最优解。</li>
+                <li>适用于各种场景，包括问答系统、智能客服、搜索引擎等。</li>
             </ul>
         </td> 
     </tr>
@@ -870,7 +914,8 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>AI新闻推送</li>
+                <li>提供个性化的新闻推送服务，根据用户的兴趣和偏好推荐内容。</li>
+                <li>采用机器学习算法和自然语言处理技术，可以理解用户的阅读习惯，并进行智能分析和推荐。</li>
             </ul>
         </td> 
     </tr>
@@ -880,8 +925,9 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-				<li>AI提示词</li>
-                <li>提示词prompt数据库</li>
+				<li>提供高质量的AI提示词数据库，包含多个领域的提示词。</li>
+                <li>可用于各种自然语言处理任务，如文本生成、机器翻译等。</li>
+                <li>支持通过API或Web界面使用。</li>
             </ul>
         </td> 
     </tr>
@@ -889,13 +935,14 @@
         <td><a href="https://www.futurepedia.io/">FUTUREPEDIA</a></td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>一个科技与未来主题的网址导航平台</li>
-                <li>包含各种领域的网站和资源链接</li>
-                <li>支持自定义和分享</li>
+                <li>整合了大量科技与未来相关的网站和资源链接，方便用户快速浏览和获取信息。</li>
+                <li>支持自定义添加和编辑，用户可根据需要添加自己喜欢的网站和资源。</li>
+                <li>支持分享功能，用户可将自己的收藏夹与其他人共享。</li>
             </ul>
         </td>
     </tr>
-</table> 
+</table>
+
 
 
 
