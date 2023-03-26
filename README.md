@@ -7,7 +7,7 @@
 
 - [目录](#目录)
 - [仓库介绍](#仓库介绍)
-- [ChatGPT代替品](#ChatGPT代替品)
+- [OpenAI镜像网站](#OpenAI镜像网站)
 - [ChatGPT代替品](#ChatGPT代替品)
 - [大厂产品](#大厂产品)
 - [AI应用](#AI应用)
