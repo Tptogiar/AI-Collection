@@ -75,7 +75,7 @@
             <ul style="list-style-type: disc;">
                 <li>免费直接用</li>
                 <li>科学science上网</li>
-                <li>界面基本和官方一样</li>
+                <li>界面操作基本和官方一样</li>
                 <li>可以选择模型版本</li>
                 <li>可以设置自己的key</li>
             </ul>
@@ -94,6 +94,35 @@
                 <li>科学science上网</li>
                 <li>界面操作与官方差异比较大</li>
                 <li>可以设置自己的key</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <img src="./icon/FreeGPT.png" width="15"; height="15">
+                <a   href="https://freegpt.one/">FreeGPT</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免费直接用</li>
+                <li>科学science上网</li>
+                <li>界面操作基本和官方一样</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <img src="./icon/Chat35.ico" width="15"; height="15">
+                <a   href="https://chat35.com/chat">Chat35.com</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免费直接用</li>
+                <li>不需要科学science上网</li>
             </ul>
         </td> 
     </tr>
