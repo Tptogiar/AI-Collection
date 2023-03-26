@@ -7,9 +7,11 @@
 
 - [目录](#目录)
 - [仓库介绍](#仓库介绍)
-- [镜像网站](#镜像网站)
+- [OpenAi ChatGPT镜像网站](#OpenAi ChatGPT镜像网站)
+- [ChatGPT代替品](#ChatGPT代替品)
 - [大厂产品](#大厂产品)
 - [AI应用](#AI应用)
+  * [文本内容](#文本内容)
 
 <hr><br/><br/>
 
@@ -19,15 +21,16 @@
   <summary><h1>仓库介绍</h1></summary>
 
 ```
-  收集ChatGPT镜像，基于ChatGPT的应用，产品等
-  本文部分内容由AI生成
-  
+  ChatGPT网址导航，收集ChatGPT镜像，基于ChatGPT的应用，产品等
 ```
 
 </details>
 
 <details open="open">
-  <summary><h1>镜像网站</h1></summary>
+  <summary><h1>OpenAI镜像网站</h1></summary>
+
+​    
+
 
 <table>
     <tr>
@@ -186,8 +189,114 @@
 </table> 
 </details>
 
+
+<details open="open">
+<summary><h1>ChatGPT代替品</h1></summary>
+<table>
+    <tr>
+        <td><a href="https://writesonic.com/chat">Chatsonic</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>无限量生成文章，广告，电邮等</li>
+                <li>多语言支持</li>
+                <li>API接口</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://www.craft.do/">Craft</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>协作文档编辑</li>
+                <li>整合了大量工具和模板</li>
+                <li>可视化思维导图</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://www.vondy.com/">Vondy</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>AI自动设计</li>
+                <li>Logo、名片、海报、幻灯片等设计</li>
+                <li>简单易用的UI界面</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://www.cursor.so/">Cursor</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>基于GPT4的书写助手</li>
+                <li>可用于写作、社交媒体等</li>
+                <li>简单易用的UI界面</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://poe.com/">Poe</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>基于GPT4的写作助手</li>
+                <li>生成文章、电子邮件等</li>
+                <li>智能摘要</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://rytr.me/">Rytr</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>一个写作AI平台，可帮助用户生成文章和内容</li>
+                <li>提供了多种生成选项</li>
+                <li>适合各种类型的内容创建者</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://freegpt.one/">FreeGPT</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免费的GPT-3 API</li>
+                <li>可用于开发和测试应用程序</li>
+                <li>支持常见编程语言</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://you.com/">YouGPT</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>提供基于GPT的文本自动生成工具</li>
+                <li>可生成各种类型的文本，如文章、电子邮件等</li>
+                <li>支持多语言</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td><a href="https://www.jasper.ai/">Jasper</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>AI聊天机器人平台</li>
+                <li>可应用于客户服务、销售和营销等领域</li>
+                <li>支持自定义脚本和扩展</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+</details>
+
+
+
+
+
+
+
+
 <details open="open">
 <summary><h1>AI应用</h1></summary>
+
 
 ​    
 <h4>论文</h4>
@@ -287,20 +396,60 @@
 </table>  
 
 
-
-<h4>ai提示词</h4>
+<h4>AI绘画</h4>
 <table>
     <tr>
         <td>
-            <a href="https://promptdb.ai/">PromptDB</a>
+            <a href="https://www.jrnylist.com/">Jrnylist</a>
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>提示词prompt数据库</li>
+                <li>关键词参考</li>
             </ul>
-        </td> 
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://prompt.noonshot.com/">Noonshot</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>生成Midjourney关键词</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.prompthunt.com/">Prompt Hunt</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>DALL·E和Midjourney绘画</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://promptbase.com/">PromptBase</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>DALL·E，Midjourney，ChatGPT，Stable Diffusion绘画</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://app.hypotenuse.ai/invited">Hypotenuse AI</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>文字内容和绘画</li>
+            </ul>
+        </td>
     </tr>
 </table>  
+
 
 
 <h4>问答</h4>
@@ -323,6 +472,31 @@
             <ul style="list-style-type: disc;">
                 <li>AI搜索</li>
                 <li>回答问题</li>
+            </ul>
+        </td> 
+    </tr>
+</table>
+
+
+<h4>写作</h4>
+<table>
+    <tr>
+        <td><a href="https://xiezuocat.com/">写作猫</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>一款基于AI的自动写作软件</li>
+                <li>可自动生成文章、广告语、产品描述等</li>
+                <li>支持多种行业领域</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://aiscreenwriter.com/">AI Screenwriter</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>改善剧本</li>
             </ul>
         </td> 
     </tr>
@@ -382,17 +556,9 @@
             </ul>
         </td> 
     </tr>
-    <tr>
-        <td>
-            <a href="https://aiscreenwriter.com/">AI Screenwriter</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>改善剧本</li>
-            </ul>
-        </td> 
-    </tr>
+
 </table>
+
 
 
 <h4>理解内容</h4>
@@ -442,12 +608,6 @@
 
 
 
-
-
-
-
-
-
 <h4>翻译</h4>
 <table>
     <tr>
@@ -461,52 +621,6 @@
         </td> 
     </tr>
 </table>
-
-
-
-<h4>其他</h4>
-<table>
-    <tr>
-        <td>
-                <a href="https://hotoke.ai/">佛前AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>说出的苦恼</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://mottle.com/">Mottle</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>构建自己的GPT</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://rationale.jinaai.cn/">Rationale</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>分析最优解</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://artifact.news/">Artifact</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>AI新闻推送</li>
-            </ul>
-        </td> 
-    </tr>
-</table>  
 
 
 
@@ -668,6 +782,105 @@
         </td> 
     </tr>
 </table>
+
+
+<h2>编程</h2>
+<table>
+    <tr>
+        <td><a href="https://huggingface.co/">Hugging Face</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>提供各种自然语言处理工具和模型，如BERT、GPT等</li>
+                <li>支持多种编程语言和框架</li>
+                <li>拥有活跃的社区和丰富的资源</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+
+<h2>设计</h2>
+<table>
+    <tr>
+        <td><a href="https://www.vondy.com/">Vondy</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>一个AI自动设计平台，可帮助用户设计各种图形和图像</li>
+                <li>支持多种设计工具和模板</li>
+                <li>简单易用的UI界面</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+
+
+<h4>其他</h4>
+<table>
+    <tr>
+        <td>
+                <a href="https://hotoke.ai/">佛前AI</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>说出的苦恼</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://mottle.com/">Mottle</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>构建自己的GPT</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://rationale.jinaai.cn/">Rationale</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>分析最优解</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://artifact.news/">Artifact</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>AI新闻推送</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://promptdb.ai/">PromptDB</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+				<li>AI提示词</li>
+                <li>提示词prompt数据库</li>
+            </ul>
+        </td> 
+    </tr>
+     <tr>
+        <td><a href="https://www.futurepedia.io/">FUTUREPEDIA</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>一个科技与未来主题的网址导航平台</li>
+                <li>包含各种领域的网站和资源链接</li>
+                <li>支持自定义和分享</li>
+            </ul>
+        </td>
+    </tr>
+</table> 
+
 
 
 </details>
