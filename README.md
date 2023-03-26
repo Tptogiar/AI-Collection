@@ -131,7 +131,64 @@
 
 
 <details open="open">
-<summary><h1>大厂产品</h1></summary>
+<summary><h1>大厂原版</h1></summary>
+<table>
+    <tr>
+        <td>
+            <div>
+                <img src="./icon/FreeGPT.png" width="15"; height="15">
+                <a   href="https://chat.openai.com/">OpenAI ChatGPT</a>
+            </div>
+        </td>
+        <td>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <img src="./icon/Bing.jfif" width="15"; height="15">
+                <a   href="https://www.bing.com/new">New Bing</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <a   href="https://zhuanlan.zhihu.com/p/612921275">食用方法</a>
+                <li>科学science上网</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <img src="./icon/文心一言.ico" width="15"; height="15">
+                <a   href="https://yiyan.baidu.com/welcome">百度文心一言</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <img src="icon/Notion.jfif" width="15"; height="15">
+                <a   href="https://www.notion.so/product/ai">Notion Ai</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免费用户限制300个block</li>
+                <li>科学science上网</li>
+            </ul>
+        </td> 
+    </tr>
+</table> 
+
+</details>
+
+<details open="open">
+<summary><h1>AI应用</h1></summary>
 
 
 </details>
