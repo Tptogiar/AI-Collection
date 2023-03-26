@@ -7,11 +7,23 @@
 
 - [目录](#目录)
 - [仓库介绍](#仓库介绍)
-- [OpenAi ChatGPT镜像网站](#OpenAi ChatGPT镜像网站)
+- [ChatGPT代替品](#ChatGPT代替品)
 - [ChatGPT代替品](#ChatGPT代替品)
 - [大厂产品](#大厂产品)
 - [AI应用](#AI应用)
+  * [论文](#论文)
+  * [表格](#表格)
+  * [AI绘画](#AI绘画)
+  * [问答](#问答)
+  * [写作](#写作)
   * [文本内容](#文本内容)
+  * [理解内容](#理解内容)
+  * [翻译](#翻译)
+  * [浏览器插件](#浏览器插件)
+  * [AI营销](#AI营销)
+  * [编程](#编程)
+  * [设计](#设计)
+  * [其他](#其他)
 
 <hr><br/><br/>
 
@@ -784,7 +796,7 @@
 </table>
 
 
-<h2>编程</h2>
+<h4>编程</h4>
 <table>
     <tr>
         <td><a href="https://huggingface.co/">Hugging Face</a></td>
@@ -800,7 +812,7 @@
 
 
 
-<h2>设计</h2>
+<h4>设计</h4>
 <table>
     <tr>
         <td><a href="https://www.vondy.com/">Vondy</a></td>
