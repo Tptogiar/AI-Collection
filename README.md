@@ -928,6 +928,33 @@
             </ul>
         </td>
     </tr>
+    
+</table>
+
+<h4>视频化文字</h4>
+<table>
+    <tr>
+        <td><a href="https://lumen5.com/blog-to-video">lumen5</a></td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>一个AI视频自动设计平台</li>
+                <li>支持将您的博客等文字性的文章以视频形式转换</li>
+                <li>简单易用的UI界面</li>
+                <li>支持使用拖动形式制作</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+         <td>
+              <a href="https://www.synthesia.io/">synthesia</a>
+         </td>
+         <td>
+             <ul style="list-style-type: disc;">
+                  <li>一个只要你提供文字，就能生成视频的网站</li>
+                  <li>不需要复杂的操作，它能直接发送到您你的邮箱</li>
+             </ul>
+         </td> 
+    </tr>
 </table>
 
 
