@@ -270,16 +270,6 @@
         </td>
     </tr>
     <tr>
-        <td><a href="https://freegpt.one/">FreeGPT</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>免费的GPT-3 API</li>
-                <li>可用于开发和测试应用程序</li>
-                <li>支持常见编程语言</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
         <td><a href="https://you.com/">YouGPT</a></td>
         <td>
             <ul style="list-style-type: disc;">
