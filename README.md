@@ -40,7 +40,7 @@
   <summary><h1>仓库介绍</h1></summary>
 
 ```
-  ChatGPT网址导航，收集ChatGPT镜像，替代品收录，基于ChatGPT的应用网站，其他相关AI产品等
+ 收集国内免费ChatGPT镜像，替代品收录，基于ChatGPT的应用网站，其他相关AI产品等AI网址导航，
 ```
 
 </details>
