@@ -603,7 +603,7 @@
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>提供在线字体识别和转换服务</li>
+                <li>AI续写，类似于Notion AI</li>
                 <li>支持多种语言和字体的输入和输出</li>
                 <li>可以识别和转换手写、印刷、数字等多种类型的字体</li>
                 <li>使用AI技术进行字体识别、匹配和转换，提高准确率</li>
