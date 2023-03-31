@@ -1042,6 +1042,18 @@
 
 
 
+## ***Star History***
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tptogiar/AI-Collection&type=Date)](https://star-history.com/#Tptogiar/AI-Collection&Date)
+
+<!--
+<hr>
+<p align="center">
+
+<br>
+</p>
+-->
+
 
 
 
