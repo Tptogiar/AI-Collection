@@ -12,7 +12,7 @@ Don't just look, give a star
 - [Table of Contents](#table-of-contents)
 - [Repository Introduction](#repository-introduction)
 - [OpenAI Mirror Websites](#openai-mirror-websites)
-- [Alternatives to ChatGPT](#Alternatives to ChatGPT)
+- [Alternatives to ChatGPT](#alternatives-to-chatgpt)
 - [Products from Big Corporations](#Products from Big Corporations)
 - [AI Applications](#AI Applications)
   * [Papers](#Papers)
