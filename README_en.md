@@ -22,14 +22,14 @@ Don't just look, give a star
   * [AI Drawing](#AI Drawing)
   * [Question Answering](#Question Answering)
   * [Writing](#Writing)
-  * [Text Content](#文本内容)
+  * [Text Content](#Text Content)
   * [Content Understanding](#Content Understanding)
   * [Translation](#Translation)
   * [Browser Extensions](#Browser Extensions)
-  * [AI Marketing](#AI Marketing)
+  * [Marketing](#Marketing)
   * [Programming](#Programming)
   * [Design](#Design)
-  * [Video Embedding Text](#Video Embedding Text)
+  * [Text to Video](#Text to Video)
   * [Others](#Others)
 
 <hr><br/><br/>
@@ -148,7 +148,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 
 <details open="open">
-<summary><h1>Da Chang Original Version</h1></summary>
+<summary><h1>Products from Big Corporations</h1></summary>
 <table>
     <tr>
         <td>
@@ -205,7 +205,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 
 <details open="open">
-<summary><h1>ChatGPT Alternatives</h1></summary>
+<summary><h1>Alternatives to ChatGPT</h1></summary>
 <table>
     <tr>
         <td><a href="https://writesonic.com/chat">Chatsonic</a></td>
@@ -379,7 +379,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 [👆Back to directory👆](#Table of Contents)
 
-<h4>Table</h4>
+<h4>Tables</h4>
 <table>
     <tr>
         <td>
@@ -483,7 +483,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 [👆Back to directory👆](#Table of Contents)
 
-<h4>Q&A</h4>
+<h4>Question Answering</h4>
 <table>
     <tr>
         <td>
@@ -620,7 +620,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 [👆Back to directory👆](#Table of Contents)
 
-<h4>Understanding</h4>
+<h4>Content Understanding</h4>
 <table>
     <tr>
         <td>
@@ -696,7 +696,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 [👆Back to directory👆](#Table of Contents)
 
-<h4>Browser Plugins</h4>
+<h4>Browser Extensions</h4>
 <table>
     <tr>
         <td>
@@ -774,7 +774,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 [👆Back to directory👆](#Table of Contents)
 
-<h4>AI Marketing</h4>
+<h4>Marketing</h4>
 <table>
     <tr>
         <td>
@@ -958,7 +958,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 [👆Back to directory👆](#Table of Contents)
 
 
-<h4>Other</h4>
+<h4>Others</h4>
 <table>
     <tr>
         <td>
