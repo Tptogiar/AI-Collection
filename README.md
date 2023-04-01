@@ -2,7 +2,7 @@
 <span>AI-Collection</span>
 </h1>
 <p align="center">
-    <a href="./README.md">中文</a> | 
+    中文 | 
     <a href="./README-EN.md">English</a>
 </p>
 <hr>
