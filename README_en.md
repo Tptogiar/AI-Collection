@@ -12,6 +12,7 @@ Don't just look, give a star
 # Table of Contents
 
 - [Table of Contents](#Table of Contents)
+
 - [Repository Introduction](#Repository Introduction)
 - [OpenAI Mirror Websites](#OpenAI Mirror Websites)
 - [Alternatives to ChatGPT](#Alternatives to ChatGPT)
