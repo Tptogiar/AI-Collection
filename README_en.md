@@ -9,8 +9,7 @@ Don't just look, give a star
 
 
 
-# Table of Contents
-- [Table of Contents](#Table of Contents)
+
 
 
 
