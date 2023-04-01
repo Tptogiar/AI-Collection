@@ -1,6 +1,11 @@
-AI Collection
-<hr/>
-
+<h1 align="center">
+<span>AI-Collection</span>
+</h1>
+<p align="center">
+    <a href="./README-EN.md">English</a>
+    <a href="./README.md">中文</a> | 
+</p>
+<hr>
 Updated on: 2023-04-01
 
 Don't just look, give a star
