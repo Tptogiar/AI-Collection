@@ -292,7 +292,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 
 
-[👆Table of Contents👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 
 <details open="open">
@@ -376,7 +376,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>Tables</h4>
 <table>
@@ -409,7 +409,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>AI Drawing</h4>
 <table>
@@ -480,7 +480,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>Question Answering</h4>
 <table>
@@ -513,7 +513,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>Writing</h4>
 <table>
@@ -545,7 +545,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 
 <h4>Text Content</h4>
@@ -617,7 +617,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>Content Understanding</h4>
 <table>
@@ -671,7 +671,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 
 <h4>Translation</h4>
@@ -693,7 +693,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>Browser Extensions</h4>
 <table>
@@ -771,7 +771,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>Marketing</h4>
 <table>
@@ -887,7 +887,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>Programming</h4>
 <table>
@@ -903,7 +903,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>Design</h4>
 <table>
@@ -919,7 +919,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
     </tr>
 </table>
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 <h4>Text to Video</h4>
 <table>
@@ -954,7 +954,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 </table>
 
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
 
 
 <h4>Others</h4>
@@ -1050,4 +1050,4 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#table-of-contents)
