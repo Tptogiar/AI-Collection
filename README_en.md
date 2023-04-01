@@ -293,7 +293,7 @@ This repository collects free ChatGPT mirrors and alternatives in China, as well
 
 
 
-[👆Back to directory👆](#Table of Contents)
+[👆Table of Contents👆](#Table of Contents)
 
 
 <details open="open">
