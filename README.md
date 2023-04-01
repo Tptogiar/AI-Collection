@@ -1,7 +1,15 @@
-# AI收集
+<h1 align="center">
+<span>AI-Collection</span>
+</h1>
+<p align="center">
+    <a href="./README.md">中文</a> | 
+    <a href="./README-EN.md">English</a>
+</p>
+<hr>
 
-<hr/>
-更新于： 2023-03-31
+
+
+Updata At : 2023-04-01
 
 别光看鸭，给个star嘛
 <br/><br/>
