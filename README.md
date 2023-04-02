@@ -9,7 +9,7 @@
 
 
 
-Updata At : 2023-04-01
+Updata At : 2023-04-02
 
 别光看鸭，给个star嘛
 <br/><br/>
@@ -62,7 +62,7 @@ Updata At : 2023-04-01
   <summary><h1>仓库介绍</h1></summary>
 
 ```
-收集国内免费ChatGPT镜像，替代品等，以及其他基于ChatGPT的应用网站，相关AI产品等（AI网址导航）
+收集国内免费ChatGPT镜像，替代品，prompt，以及其他AI应用等 | Collect free ChatGPT mirrors, alternatives,prompt, other AI applications, etc.
 ```
 
 </details>
