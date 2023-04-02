@@ -45,6 +45,7 @@ Updata At : 2023-04-01
 
 <details open="open">
     <summary>AI应用</summary>
+	
   * [论文](#论文)
   * [表格](#表格)
   * [AI绘画](#AI绘画)
@@ -59,6 +60,7 @@ Updata At : 2023-04-01
   * [设计](#设计)
   * [视频化文字](#视频化文字)
   * [其他](#其他)
+	
 </details>
 
 
