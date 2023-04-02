@@ -1069,6 +1069,8 @@ Updata At : 2023-04-01
 
 - [prompt使用指南](https://www.promptingguide.ai/zh)
 
+<br><br><br>
+
 ## ***Star History***
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Tptogiar/AI-Collection&type=Date)](https://star-history.com/#Tptogiar/AI-Collection&Date)
