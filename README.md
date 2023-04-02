@@ -44,9 +44,7 @@ Updata At : 2023-04-01
 
 
 <details open="open">
-    <summary><h1>AI应用</h1></summary>
-    <a herf="#论文">论文</a>
-	
+    <summary>AI应用</summary>
   * [论文](#论文)
   * [表格](#表格)
   * [AI绘画](#AI绘画)
