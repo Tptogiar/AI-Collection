@@ -62,7 +62,7 @@ Updata At : 2023-04-02
   <summary><h1>仓库介绍</h1></summary>
 
 ```
-收集国内免费ChatGPT镜像，替代品，prompt，以及其他AI应用等 | Collect free ChatGPT mirrors, alternatives,prompt, other AI applications, etc.
+收集国内免费ChatGPT镜像，替代品，prompt，以及其他AI应用等
 ```
 
 </details>
