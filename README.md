@@ -1067,7 +1067,7 @@ Updata At : 2023-04-01
 
 ## prompt使用指南
 
-![prompt使用指南](https://www.promptingguide.ai/zh)
+- [prompt使用指南](https://www.promptingguide.ai/zh)
 
 ## ***Star History***
 
