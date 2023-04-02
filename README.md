@@ -44,6 +44,7 @@ Updata At : 2023-04-01
 
 
 <details open="open">
+    <summary><h1>AI应用</h1></summary>
     <a herf="#论文">论文</a>
 	
   * [论文](#论文)
@@ -62,9 +63,6 @@ Updata At : 2023-04-01
   * [其他](#其他)
 </details>
 
-<details open="open">
-
-</details>
 
 
 <details open="open">
