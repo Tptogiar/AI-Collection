@@ -43,6 +43,9 @@ Updata At : 2023-04-01
   * [其他](#其他)
 	
 </details>
+<details open="open">
+    <summary>prompt</summary>
+</details>
 
 <hr><br/><br/>
 
@@ -1056,7 +1059,8 @@ Updata At : 2023-04-01
 
 </details>
 
-
+# prompt
+- ![prompt使用指南](https://www.promptingguide.ai/zh)
 
 ## ***Star History***
 
