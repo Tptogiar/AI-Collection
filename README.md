@@ -9,7 +9,7 @@
 
 
 
-Updata At : 2023-04-02
+Updata At : 2023-04-04
 
 别光看鸭，给个star嘛
 <br/><br/>
@@ -1068,6 +1068,7 @@ Updata At : 2023-04-02
 ## prompt使用指南
 
 - [prompt使用指南](https://www.promptingguide.ai/zh)
+- [中文调教指南](https://chatguide.plexpt.com/)
 
 <br><br><br>
 
