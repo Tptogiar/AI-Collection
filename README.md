@@ -84,7 +84,8 @@ Updata At : 2023-04-04
         <td>
             <ul style="list-style-type: disc;">
 		 <li>
-			 <div>✅免费直接用<span style="float: right;">2023-04-04 16:38:26</span>
+			 <div><span style="float: left;">✅免费直接用</span>
+				 <span style="float: right;">2023-04-04 16:38:26</span>
 			 </div>
 			 </li>
                 <li>科学science上网</li>
