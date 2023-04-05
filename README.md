@@ -177,6 +177,8 @@ Updata At : 2023-04-04
         </td>
         <td>
             <ul style="list-style-type: disc;">
+	    <li>✅邮箱注册登录后可以用 | 2023-04-05 15:40:02</li>
+	    <li>提供多种模型选择</li>
             </ul>
         </td>
     </tr>
