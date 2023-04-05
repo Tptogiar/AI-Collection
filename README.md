@@ -388,7 +388,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于GPT技术的聊天机器人，支持中英文翻译。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -398,17 +398,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT技术的聊天机器人服务，并且支持情感分析和语音合成等功能。</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.wuguokai.cn/s/chatgpt">Wuguokai CN</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>该网站提供一个使用GPT技术实现的聊天机器人。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -418,7 +408,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于AI技术的聊天机器人服务，并且能够进行语音识别和合成。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -428,7 +418,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个智能聊天机器人，可以进行自然语言处理并回答各种问题。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -438,7 +428,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于AI技术的个性化服务，包括聊天机器人等。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -448,7 +438,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个智能助手，可以进行自然语言处理并回答各种问题。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -458,7 +448,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于GPT技术的聊天机器人，并且支持情感分析和生成语音等功能。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -468,7 +458,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于AI技术的聊天机器人，并且支持多种语言。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
