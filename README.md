@@ -188,7 +188,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>一个基于WebSocket的在线聊天应用程序。</li>
+                <li>✅    【2023-04-05 20:11:49】</li>
             </ul>
         </td>
     </tr>
@@ -198,7 +198,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>一个在线人工智能实验室，包括语音识别、图像识别等功能。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -208,7 +208,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>一个开源的文本内容管理系统，适用于博客、知识库等网站。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -218,7 +218,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT的聊天机器人服务。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -228,7 +228,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供聊天机器人，支持多种语言，并能够进行翻译。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -238,7 +238,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于AI技术的智能聊天机器人服务。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -248,7 +248,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于GPT技术的个性化聊天机器人。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -258,7 +258,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个支持多种语言的聊天机器人。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -268,7 +268,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个可爱的聊天机器人，可以回答各种问题。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -278,7 +278,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT技术的聊天机器人服务，并且能够进行情感识别和生成语音等功能。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -288,7 +288,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于AI技术的个性化聊天服务。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -298,7 +298,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于GPT的聊天机器人，并且支持多种语言。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -308,17 +308,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT-3.5的聊天机器人服务。</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://freegpt.one/">Free GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT技术的智能聊天机器人服务，并且可以进行情感分析。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -328,17 +318,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于AI技术的聊天机器人，并且支持多种语言。</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://desk.im/">Desk IM</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>该网站提供一个智能客服系统，可以进行自动应答和人工服务。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -348,7 +328,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT技术的聊天机器人服务。</li>
+                <li>需要购买卡密</li>
             </ul>
         </td>
     </tr>
@@ -358,7 +338,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于JavaScript技术的聊天机器人。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -368,17 +348,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个支持多种语言的聊天机器人。</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://ai.ci">AI.CI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>该网站提供基于AI技术的个性化聊天服务。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
@@ -388,7 +358,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT-4的聊天机器人服务。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -398,7 +368,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于GPT技术的聊天机器人，并且支持中英文语言。</li>
+                <li>✅    【2023-04-05 20:12:38】</li>
             </ul>
         </td>
     </tr>
@@ -408,7 +378,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个聊天机器人，可以进行自然语言处理并回答各种问题。</li>
+                <li>❌    【2023-04-05 20:12:06】</li>
             </ul>
         </td>
     </tr>
