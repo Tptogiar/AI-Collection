@@ -470,7 +470,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT技术的聊天机器人服务，并且支持情感分析和语音合成等功能。</li>
+                <li>❌需要密码    【2023-04-07 00:30:19】</li>
             </ul>
         </td>
     </tr>
@@ -480,7 +480,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个简单的聊天机器人，可以进行自然语言处理并回答各种问题。</li>
+                <li>✅    【2023-04-07 00:30:47】</li>
             </ul>
         </td>
     </tr>
@@ -490,7 +490,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个聊天机器人，需要登录后才能使用。</li>
+                <li>需要注册登录</li>
             </ul>
         </td>
     </tr>
@@ -500,7 +500,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT技术的聊天机器人服务，并且支持中英文翻译。</li>
+                <li>❌    【2023-04-07 00:32:52】</li>
             </ul>
         </td>
     </tr>
@@ -510,7 +510,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于GPT技术的聊天机器人，需要登录后才能使用。</li>
+                <li>需要key</li>
             </ul>
         </td>
     </tr>
@@ -520,7 +520,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个聊天机器人，可以进行自然语言处理并回答各种问题。</li>
+                <li>❌    【2023-04-07 00:32:52】</li>
             </ul>
         </td>
     </tr>
@@ -530,7 +530,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于GPT技术的聊天机器人服务，需要输入密钥才能使用。</li>
+                <li>❌    【2023-04-07 00:32:52】</li>
             </ul>
         </td>
     </tr>
@@ -540,7 +540,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于GPT技术的聊天机器人，并且需要登录才能使用。</li>
+                <li>需要注册登录</li>
             </ul>
         </td>
     </tr>
@@ -550,7 +550,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供基于AI技术的聊天机器人服务，但目前已经失效。</li>
+                <li>❌    【2023-04-07 00:32:52】</li>
             </ul>
         </td>
     </tr>
@@ -560,7 +560,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个基于GPT技术的聊天机器人，需要登录后才能使用。</li>
+                <li>✅    【2023-04-07 00:30:47】</li>
             </ul>
         </td>
     </tr>
@@ -570,7 +570,7 @@ Updata At : 2023-04-05
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>该网站提供一个简单的聊天机器人，可以进行自然语言处理并回答各种问题。</li>
+                <li>需要key</li>
             </ul>
         </td>
     </tr>
