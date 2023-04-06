@@ -865,6 +865,19 @@ Updata At : 2023-04-07
             </ul>
         </td> 
     </tr>
+    <tr>
+        <td>
+            <div>
+                <a   href="https://github.com/features/copilot">GitHub Copilot </a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+            </ul>
+        </td> 
+    </tr>
+    
+    
 </table> 
 </details>
 
