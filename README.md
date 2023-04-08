@@ -9,7 +9,7 @@
 
 
 
-Update At : 2023-04-07
+Update At : 2023-04-08
 
 持续更新中...
 
@@ -37,7 +37,6 @@ Update At : 2023-04-07
   * [文本内容](#文本内容)
   * [理解内容](#理解内容)
   * [翻译](#翻译)
-  * [浏览器插件](#浏览器插件)
   * [AI营销](#AI营销)
   * [编程](#编程)
   * [设计](#设计)
@@ -46,12 +45,27 @@ Update At : 2023-04-07
 	
 </details>
 
+
+<details open="open">
+    <summary>软件插件</summary>
+	
+  * [vscode插件](#vscode插件)
+  * [浏览器插件](#浏览器插件)
+	
+</details>
+
+
+
+
 <details open="open">
     <summary>prompt</summary>
 	
-  * [prompt使用指南](#prompt使用指南)
+  * [prompt使用指南 中文调教指南](#prompt使用指南-中文调教指南)
 	
 </details>
+
+
+
 
 <hr><br/><br/>
 
@@ -1394,117 +1408,11 @@ Update At : 2023-04-07
 
 [👆回到目录👆](#目录)
 
-<h4>浏览器插件</h4>
-<table>
-    <tr>
-        <td>
-                <a href="https://www.thomas.io/detect-gpt">Detect GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>实时检查内容真实性</li>
-                <li>基于GPT模型的AI技术进行检测</li>
-                <li>支持多种语言，包括英语、法语、德语等</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.fluentify.io/">Fluentify</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>划字提问</li>
-                <li>快速提供问题解答，并生成知识图谱</li>
-                <li>支持跨领域问题解答</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh?hl=en">ArxivGPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>总结论文并提供关键见解</li>
-                <li>基于GPT模型的AI技术进行自动化总结</li>
-                <li>提供关键词语解释和相关论文推荐</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://sharegpt.com/">ShareGPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>免费GPT模型使用</li>
-                <li>支持多种自然语言处理任务，如文本生成、翻译等</li>
-                <li>提供API接口，方便用户进行二次开发</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://harpa.ai/">HARPA AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>网页自动化</li>
-                <li>基于GPT模型的AI技术实现自动化流程</li>
-                <li>支持多种自然语言处理任务，如文本生成、问答、语音合成等</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chatgptwriter.ai/">Gmail AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>谷歌邮箱生成邮件内容</li>
-                <li>基于GPT模型的AI技术实现邮件内容自动生成</li>
-                <li>支持个性化定制，可根据用户输入的关键词生成邮件内容</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
+
 
 [👆回到目录👆](#目录)
 
-<h4>VSCode插件</h4>
-<table>
-    <tr>
-        <td>
-            <a href="https://marketplace.visualstudio.com/items?itemName=WhenSunset.chatgpt-china">ChatGPT中文版</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>支持中文</li> 
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://marketplace.visualstudio.com/items?itemName=xiaohuoni.i-chatgpt">ChatGPT中文版 - 免翻墙</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>免翻墙</li> 
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://marketplace.visualstudio.com/items?itemName=zhukunpeng.chat-moss">ChatGPT-ChatMoss</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>有apiKey可无限使用</li> 
-            </ul>
-        </td> 
-    </tr>
-</table>
+
 
 [👆回到目录👆](#目录)
 
@@ -1763,17 +1671,155 @@ Update At : 2023-04-07
     </tr>
 </table>
 
-
-
-
 </details>
 
-# prompt
 
-## prompt使用指南
+<details open="open">
+    <summary><h1>软件插件</h1></summary>
 
-- [prompt使用指南](https://www.promptingguide.ai/zh)
-- [中文调教指南](https://chatguide.plexpt.com/)
+<h4>VSCode插件</h4>
+<table>
+    <tr>
+        <td>
+            <a href="https://marketplace.visualstudio.com/items?itemName=WhenSunset.chatgpt-china">ChatGPT中文版</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>支持中文</li> 
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://marketplace.visualstudio.com/items?itemName=xiaohuoni.i-chatgpt">ChatGPT中文版 - 免翻墙</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免翻墙</li> 
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://marketplace.visualstudio.com/items?itemName=zhukunpeng.chat-moss">ChatGPT-ChatMoss</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>有apiKey可无限使用</li> 
+            </ul>
+        </td> 
+    </tr>
+</table>
+
+<h4>浏览器插件</h4>
+<table>
+    <tr>
+        <td>
+                <a href="https://www.thomas.io/detect-gpt">Detect GPT</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>实时检查内容真实性</li>
+                <li>基于GPT模型的AI技术进行检测</li>
+                <li>支持多种语言，包括英语、法语、德语等</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.fluentify.io/">Fluentify</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>划字提问</li>
+                <li>快速提供问题解答，并生成知识图谱</li>
+                <li>支持跨领域问题解答</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh?hl=en">ArxivGPT</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>总结论文并提供关键见解</li>
+                <li>基于GPT模型的AI技术进行自动化总结</li>
+                <li>提供关键词语解释和相关论文推荐</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://sharegpt.com/">ShareGPT</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免费GPT模型使用</li>
+                <li>支持多种自然语言处理任务，如文本生成、翻译等</li>
+                <li>提供API接口，方便用户进行二次开发</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://harpa.ai/">HARPA AI</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>网页自动化</li>
+                <li>基于GPT模型的AI技术实现自动化流程</li>
+                <li>支持多种自然语言处理任务，如文本生成、问答、语音合成等</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://chatgptwriter.ai/">Gmail AI</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>谷歌邮箱生成邮件内容</li>
+                <li>基于GPT模型的AI技术实现邮件内容自动生成</li>
+                <li>支持个性化定制，可根据用户输入的关键词生成邮件内容</li>
+            </ul>
+        </td> 
+    </tr>
+</table>
+
+	
+</details>
+
+
+
+<details open="open">
+    <summary><h1>prompt</h1></summary>
+
+<h4>prompt使用指南 中文调教指南</h4>
+<table>
+    <tr>
+        <td>
+                <a href="https://www.promptingguide.ai/zh">prompt使用指南</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://chatguide.plexpt.com/">中文调教指南</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+            </ul>
+        </td> 
+    </tr>
+</table>
+
+	
+</details>
+
 
 <br><br><br>
 
