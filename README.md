@@ -9,7 +9,7 @@
 
 
 
-Updata At : 2023-04-07
+Update At : 2023-04-07
 
 持续更新中...
 
@@ -804,6 +804,33 @@ Updata At : 2023-04-07
             </ul>
         </td>
     </tr>
+    <tr>
+        <td>
+            <div>
+            <a href="https://hzdjs.cn/chatgpt">hzdjs Chat</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+            <li>聊天机器人应用程序</li>
+            <li>✅ 【2023-04-08 10:37:35】</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <a href="https://gpt.gcchen.cn/">gcchen GPT</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>由GPT-2提供支持的中国文本生成平台</li>
+                <li>✅ 【2023-04-08 10:40:27】</li>
+            </ul>
+        </td>
+    </tr>
+
 
 </table> 
 
@@ -876,6 +903,7 @@ Updata At : 2023-04-07
             </ul>
         </td> 
     </tr>
+    
     
     
 </table> 
@@ -1437,6 +1465,42 @@ Updata At : 2023-04-07
                 <li>谷歌邮箱生成邮件内容</li>
                 <li>基于GPT模型的AI技术实现邮件内容自动生成</li>
                 <li>支持个性化定制，可根据用户输入的关键词生成邮件内容</li>
+            </ul>
+        </td> 
+    </tr>
+</table>
+
+[👆回到目录👆](#目录)
+
+<h4>VSCode插件</h4>
+<table>
+    <tr>
+        <td>
+            <a href="https://marketplace.visualstudio.com/items?itemName=WhenSunset.chatgpt-china">ChatGPT中文版</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>支持中文</li> 
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://marketplace.visualstudio.com/items?itemName=xiaohuoni.i-chatgpt">ChatGPT中文版 - 免翻墙</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>免翻墙</li> 
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <a href="https://marketplace.visualstudio.com/items?itemName=zhukunpeng.chat-moss">ChatGPT-ChatMoss</a>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>有apiKey可无限使用</li> 
             </ul>
         </td> 
     </tr>
