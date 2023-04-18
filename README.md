@@ -9,7 +9,7 @@
 
 
 
-Update At : 2023-04-17
+Update At : 2023-04-18
 
 持续更新中...
 
@@ -104,6 +104,18 @@ Update At : 2023-04-17
                 <li>界面操作体验较好</li>
                 <li>可以存储和导入Prompt</li>
                 <li>GPT-3.5 / ChatGPT</li>
+            </ul>
+        </td> 
+    </tr>
+        <tr>
+        <td>
+            <div>
+                <a   href="https://agentgpt.reworkd.ai/">AgentGPT</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+	        <li>autoGPT部署后的使用使用示例</li>
             </ul>
         </td> 
     </tr>
