@@ -15,25 +15,7 @@ Don't just look, give a star
 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Repository Introduction](#repository-introduction)
-- [OpenAI Mirror Websites](#openai-mirror-websites)
-- [Alternatives to ChatGPT](#alternatives-to-chatgpt)
-- [Products from Big Corporations](#products-from-big-corporations)
-- [AI Applications](#ai-applications)
-  * [Papers](#papers)
-  * [Tables](#tables)
-  * [AI Drawing](#ai-drawing)
-  * [Question Answering](#question-answering)
-  * [Writing](#writing)
-  * [Text Content](#text-content)
-  * [Content Understanding](#content-understanding)
-  * [Translation](#translation)
-  * [Browser Extensions](#browser-extensions)
-  * [Marketing](#marketing)
-  * [Programming](#programming)
-  * [Design](#design)
-  * [Text to Video](#text-to-video)
-  * [Others](#others)
+  - [***Star History***](#star-history)
 
 
 <hr><br/><br/>
