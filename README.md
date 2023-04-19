@@ -9,7 +9,7 @@
 
 
 
-Update At : 2023-04-18
+Update At : 2023-04-19
 
 持续更新中...
 
@@ -839,7 +839,31 @@ Update At : 2023-04-18
         <td>
             <ul style="list-style-type: disc;">
             <li>聊天机器人应用程序</li>
-            <li>✅ 【2023-04-08 10:37:35】</li>
+            <li>需要登录</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <a href="https://wgz2xs-symon-ai.site.laf.run/">Symon AI Chat</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>✅ 【2023-04-019 15:30:47】</li>
+            </ul>
+        </td> 
+    </tr>
+    <tr>
+        <td>
+            <div>
+                <a href="https://infpos.cn/">Infpos</a>
+            </div>
+        </td>
+        <td>
+            <ul style="list-style-type: disc;">
+                <li>✅ 【2023-04-19 16:00:47】</li>
             </ul>
         </td>
     </tr>
@@ -856,6 +880,7 @@ Update At : 2023-04-18
             </ul>
         </td>
     </tr>
+    
 
 
 </table> 
