@@ -128,7 +128,7 @@ Update At : 2023-04-19
         </td>
         <td>
             <ul style="list-style-type: disc;">
-	        <li>❌目前不可用    【2023-04-04 16:38:26】</li>
+	        <li>❌目前不可用    【2023-04-20 21:05:40】</li>
                 <li>免费直接用</li>
                 <li>站内免费的key，每天可用十次</li>
                 <li>任意打赏可获得专属站内key，30天可用9999次</li>
@@ -146,7 +146,7 @@ Update At : 2023-04-19
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>✔️需要官方key才能用    【2023-04-04 16:38:26】</li>
+                <li>✔️需要官方key才能用    【2023-04-20 21:05:55】</li>
                 <li>科学science上网</li>
                 <li>界面操作基本和官方一样</li>
                 <li>可以选择模型版本</li>
@@ -163,7 +163,7 @@ Update At : 2023-04-19
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>✅免费直接用    【2023-04-04 16:38:26】</li>
+                <li>✅免费直接用    【2023-04-20 21:06:35】</li>
                 <li>科学science上网</li>
                 <li>界面操作与官方差异比较大</li>
                 <li>可以设置自己的key</li>
@@ -179,7 +179,7 @@ Update At : 2023-04-19
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>✅免费直接用    【2023-04-04 16:38:26】</li>
+                <li>✅免费直接用    【2023-04-20 21:07:07】</li>
                 <li>科学science上网</li>
                 <li>界面操作基本和官方一样</li>
             </ul>
@@ -194,7 +194,7 @@ Update At : 2023-04-19
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>✅登录注册后可以用    【2023-04-04 16:38:26】</li>
+                <li>✅登录注册后可以用    【2023-04-20 21:07:57】</li>
                 <li>不需要科学science上网</li>
             </ul>
         </td> 
@@ -205,7 +205,7 @@ Update At : 2023-04-19
         </td>
         <td>
             <ul style="list-style-type: disc;">
-	    <li>✅邮箱注册登录后可以用    【2023-04-05 15:40:02】</li>
+	    <li>✅    【2023-04-20 21:08:07】</li>
 	    <li>提供多种模型选择</li>
             </ul>
         </td>
@@ -216,7 +216,7 @@ Update At : 2023-04-19
         </td>
         <td>
             <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:11:49】</li>
+                <li>✅    【2023-04-20 21:09:15】</li>
             </ul>
         </td>
     </tr>
