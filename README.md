@@ -1,10 +1,6 @@
 <h1 align="center">
 <span>AI-Collection</span>
 </h1>
-<p align="center">
-    中文 | 
-    <a href="./README-EN.md">English</a>
-</p>
 <hr>
 
 收集国内免费ChatGPT镜像，prompt，以及其他AI应用等 | Collect free ChatGPT mirrors, alternatives,prompt, other AI applications, etc.
