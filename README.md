@@ -7,1874 +7,1660 @@
 </p>
 <hr>
 
-
-
-Update At : 2023-05-19
-
-持续更新中...
-
-
-tptogiar@gmail.com
-
-<br/><br/>
+收集国内免费ChatGPT镜像，prompt，以及其他AI应用等 | Collect free ChatGPT mirrors, alternatives,prompt, other AI applications, etc.
 
 
 
+**标注说明**
 
-# 目录
+| 🔖 | 📓        |
+|----|-----------|
+| ⭐  | 使用稳定，推荐   |
+| 🆕 | 最近更新      |
+| 😄 | 免费使用      |
+| 🔑 | 需要登陆或密码   |
+| ✈️ | 需国际网络进行访问 |
 
-- [目录](#目录)
-- [仓库介绍](#仓库介绍)
-- [OpenAI镜像网站](#OpenAI镜像网站)
-- [ChatGPT代替品](#ChatGPT代替品)
-- [大厂产品](#大厂产品)
-<details open="open">
-    <summary>AI应用</summary>
-	
-  * [论文](#论文)
-  * [表格](#表格)
-  * [AI绘画](#AI绘画)
-  * [问答](#问答)
-  * [写作](#写作)
-  * [文本内容](#文本内容)
-  * [理解内容](#理解内容)
-  * [翻译](#翻译)
-  * [AI营销](#AI营销)
-  * [编程](#编程)
-  * [设计](#设计)
-  * [视频化文字](#视频化文字)
-  * [其他](#其他)
-	
-</details>
+[//]: # (| 🤑 | 付费使用      |)
 
-
-<details open="open">
-    <summary>软件插件</summary>
-	
-  * [vscode插件](#vscode插件)
-  * [浏览器插件](#浏览器插件)
-	
-</details>
-
-
-
-
-<details open="open">
-    <summary>prompt</summary>
-	
-  * [prompt使用指南 中文调教指南](#prompt使用指南-中文调教指南)
-	
-</details>
-
-
-
-
-<hr><br/><br/>
+[//]: # (| 🎁 | 付费使用，体验次数 |)
 
 
 
 
 
 
-<details open="open">
-  <summary><h1>仓库介绍</h1></summary>
+### ChatGPT
 
-```
-收集国内免费ChatGPT镜像，替代品，prompt，以及其他AI应用等
-```
-
-</details>
-
-<details open="open">
-  <summary><h1>OpenAI镜像网站</h1></summary>
-
-​    
 
 
 <table>
-    <tr>
-        <td>
-            <div>
-                <img src="./icon/BAIChat.png" width="15"; height="15">
-                <a   href="https://chatbot.theb.ai/">BAI Chat</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-		 <li>✅免费直接用    【2023-04-18 23:37:40】</li>
-                <li>科学science上网</li>
-                <li>界面操作体验较好</li>
-                <li>可以存储和导入Prompt</li>
-                <li>GPT-3.5 / ChatGPT</li>
-            </ul>
-        </td> 
-    </tr>
-        <tr>
-        <td>
-            <div>
-                <a   href="https://agentgpt.reworkd.ai/">AgentGPT</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-	        <li>autoGPT部署后的使用使用示例</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <img src="./icon/AIEDU.png" width="15"; height="15">
-                <a   href="https://chat.forchange.cn/">AI EDU</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-	        <li>❌目前不可用    【2023-04-20 21:05:40】</li>
-                <li>免费直接用</li>
-                <li>站内免费的key，每天可用十次</li>
-                <li>任意打赏可获得专属站内key，30天可用9999次</li>
-                <li>不需要科学science上网</li>
-                <li>界面操作体验较好</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <img src="./icon/FastGPT.png" width="15"; height="15">
-                <a   href="https://fastgpt.app/">Fast GPT</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✔️需要官方key才能用    【2023-04-20 21:05:55】</li>
-                <li>科学science上网</li>
-                <li>界面操作基本和官方一样</li>
-                <li>可以选择模型版本</li>
-                <li>可以设置自己的key</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <img src="./icon/ChatForAI.png" width="15"; height="15">
-                <a   href="https://chatforai.com/">Chat For AI</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅免费直接用    【2023-04-20 21:06:35】</li>
-                <li>科学science上网</li>
-                <li>界面操作与官方差异比较大</li>
-                <li>可以设置自己的key</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <img src="./icon/FreeGPT.png" width="15"; height="15">
-                <a   href="https://freegpt.one/">FreeGPT</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅免费直接用    【2023-04-20 21:07:07】</li>
-                <li>科学science上网</li>
-                <li>界面操作基本和官方一样</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <img src="./icon/Chat35.ico" width="15"; height="15">
-                <a   href="https://chat35.com/chat">Chat35.com</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅登录注册后可以用    【2023-04-20 21:07:57】</li>
-                <li>不需要科学science上网</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://poe.com/">Poe</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-	    <li>✅    【2023-04-20 21:08:07】</li>
-	    <li>提供多种模型选择</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.binjie.site:7777/">Binjie Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-20 21:09:15】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://ai.usesless.com/">Useless AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://wen.geekr.dev">Geekr文库</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://free.anzz.top/">Anzz</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.aiai.zone/">AiAi</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.aidutu.cn/">Aidutu</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat10.xeasy.me">XEASY聊天机器人</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.wobcw.com/">Wobcw</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://aka.mydog.buzz">MyDog</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://greengpt.app/">Green GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://ai.ov.cm/">OvCM</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.extkj.cn/">ExtKJ聊天机器人</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chatgpt35.theinspiredgroup.com">Inspired Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://ai.ls/">LS AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://newb.site/chatgpt">NewB Chat GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要购买卡密</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://cool-js.com/ai/chat/index.html">Cool JS</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.tig.im/">Tig IM</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://www.tdchat.vip/">TD Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat1.wuguokai.top/s/chatgpt">Wuguokai</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://chat.livepo.top/">LivePo</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://openprompt.co/ChatGPT">OpenPrompt</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://94gpt.com/">94 GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://xc.com/">XC</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-05 20:12:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://chat.forwardminded.xyz/#/">ForwardMinded</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.teach-anything.com/">Teach Anything</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://beta.character.ai/">Character AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.ftcl.store/">FTCL Store</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://ai.jjzn.top/">JJZN AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-05 20:12:06】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://gpt.getshare.net/">GetShare GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌需要密码    【2023-04-07 00:30:19】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://175.178.88.119/">175 Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-07 00:30:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.eaten.fun/">Eaten Fun</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要注册登录</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://gpt.intercat.cn/">Intercat GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://freechatgpt.chat/">FreeChatGPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要key</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://aigcfun.com/">AiGcFun</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chatcat.pages.dev/">ChatCat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://codenews.cc/chatgpt">CodeNews</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要注册登录</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.zecoba.cn/">Zecoba Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://trychatgp.com/">TryChatGP</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-07 00:30:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://litechat.22733.site/">LiteChat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要key</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.alpaca-bi.com/">Alpaca BI Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要注册登录</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.typingmind.com/">TypingMind</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要key    【2023-04-07 00:48:27】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://ai.yiios.com/">Yiios AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chatforai.com/">ChatForAI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.ohmygpt.com/">OhMyGPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要注册登录    【2023-04-07 00:47:38】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://builtbyjesse.com/lab">Jesse's Lab</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-07 00:30:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chatmindai.com/">ChatMind AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.extkj.cn/#/chat">extkj Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-07 00:30:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://ai.okmiku.com/chat/">OKMiku AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-07 00:30:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.paoying.net/">Paoying Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://gpt.clashus.com/">ClashUS GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-07 00:30:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.opengpt88.com/">OpenGPT88 Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.chat2ai.cn/">Chat2AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://gitopenchina.gitee.io/gpt">GitOpenChina Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.wxredcover.cn/">WxRedCover Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要公众号密码</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.sunls.me/">SunLS Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="http://gitopenchina.gitee.io/freechatgpt">GitOpenChina FreeChatGPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://tryai.top/freechat">TryAI FreeChat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-07 00:30:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.topsearcher.top/">TopSearcher Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chat.51buygpt.com/">51BuyGPT Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-07 00:30:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://ai117.com/">AI117</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅    【2023-04-07 00:30:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.bz1y.cn/">BZ1Y Chat</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>需要手机号注册登录</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://openai.onenov.cn/">OneNov OpenAI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>❌    【2023-04-07 00:32:52】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <div>
-            <a href="https://hzdjs.cn/chatgpt">hzdjs Chat</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-            <li>聊天机器人应用程序</li>
-            <li>需要登录</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <a href="https://wgz2xs-symon-ai.site.laf.run/">Symon AI Chat</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅ 【2023-04-019 15:30:47】</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <a href="https://infpos.cn/">Infpos</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>✅ 【2023-04-19 16:00:47】</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <a href="https://gpt.gcchen.cn/">gcchen GPT</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>由GPT-2提供支持的中国文本生成平台</li>
-                <li>✅ 【2023-04-08 10:40:27】</li>
-            </ul>
-        </td>
-    </tr>
-    
 
+  <tr>
+    <td>1.</td>
+    <td><img src="https://st.ai55.cc/favicon/poe.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=a3Vnc3REbjhSWTZiK29SellZczNoRlN2SWl6SmI3V0xOYUhDOWp3K0ZKQT0=" target="_blank"> Poe.com </a> </td>
+    <td>🛫🔑😄⭐</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=a3Vnc3REbjhSWTZiK29SellZczNoRlN2SWl6SmI3V0xOYUhDOWp3K0ZKQT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-</table> 
+  <tr>
+    <td>2.</td>
+    <td><img src="https://st.ai55.cc/favicon/theb.ai.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RnJKbDdMR3BiMzBuVndUYlpwUnhWQ2l4dkY1T2REcGczb2FXREwyckVFST0=" target="_blank"> Theb.ai </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RnJKbDdMR3BiMzBuVndUYlpwUnhWQ2l4dkY1T2REcGczb2FXREwyckVFST0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>3.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RjdtYkFvZHFPajl0SjdiOHBpMUd1M3l1akpJMXU4T1lNU3BzcHBIK21Kaz0=" target="_blank"> Jinshutuan.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RjdtYkFvZHFPajl0SjdiOHBpMUd1M3l1akpJMXU4T1lNU3BzcHBIK21Kaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-</details>
+  <tr>
+    <td>4.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=T2NCSVYvdDJPZG1WRXh5NjNIOFoxVnN0emxIN0IvN0hmMm9lcU9XazBEZz0=" target="_blank"> Anzz.top </a> </td>
+    <td>🛫😄⭐ </td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=T2NCSVYvdDJPZG1WRXh5NjNIOFoxVnN0emxIN0IvN0hmMm9lcU9XazBEZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>5.</td>
+    <td><img src="https://st.ai55.cc/favicon/gpt.xcbl.cc.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=akx4RWtEaDhHOUk5QVQ1dlpEa3l1V05CUGdRQUZEUjF3THBBd3FFSTduMD0=" target="_blank"> Ai-node.com </a> </td>
+    <td>😄⭐ </td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=akx4RWtEaDhHOUk5QVQ1dlpEa3l1V05CUGdRQUZEUjF3THBBd3FFSTduMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<details open="open">
-<summary><h1>大厂原版</h1></summary>
-<table>
-    <tr>
-        <td>
-            <div>
-                <img src="./icon/FreeGPT.png" width="15"; height="15">
-                <a   href="https://chat.openai.com/">OpenAI ChatGPT</a>
-            </div>
-        </td>
-        <td>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <img src="./icon/Bing.jfif" width="15"; height="15">
-                <a   href="https://www.bing.com/new">New Bing</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <a   href="https://zhuanlan.zhihu.com/p/612921275">食用方法</a>
-                <li>科学science上网</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <img src="./icon/文心一言.ico" width="15"; height="15">
-                <a   href="https://yiyan.baidu.com/welcome">百度文心一言</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <img src="icon/Notion.jfif" width="15"; height="15">
-                <a   href="https://www.notion.so/product/ai">Notion Ai</a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>免费用户限制300个block</li>
-                <li>科学science上网</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <div>
-                <a   href="https://github.com/features/copilot">GitHub Copilot </a>
-            </div>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-            </ul>
-        </td> 
-    </tr>
-    
-    
-    
-</table> 
-</details>
+  <tr>
+    <td>6.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Y3o5WDNjQXN6Q1dtUlV4SzJBZUl1RkNhRmlIa3oyMjV5NWRIV2dTVExYRT0=" target="_blank"> Gptforlove.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Y3o5WDNjQXN6Q1dtUlV4SzJBZUl1RkNhRmlIa3oyMjV5NWRIV2dTVExYRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>7.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=N0Z0bENDVG54NGgzdDNOQWUzTUJYRElyK1NjMjM0TVFvaHVSa3pYWXMwcz0=" target="_blank"> Newstop.asia </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=N0Z0bENDVG54NGgzdDNOQWUzTUJYRElyK1NjMjM0TVFvaHVSa3pYWXMwcz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<details open="open">
-<summary><h1>ChatGPT代替品</h1></summary>
-<table>
-    <tr>
-        <td><a href="https://writesonic.com/chat">Chatsonic</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>无限量生成文章，广告，电邮等</li>
-                <li>多语言支持</li>
-                <li>API接口</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://www.craft.do/">Craft</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>协作文档编辑</li>
-                <li>整合了大量工具和模板</li>
-                <li>可视化思维导图</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://www.vondy.com/">Vondy</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>AI自动设计</li>
-                <li>Logo、名片、海报、幻灯片等设计</li>
-                <li>简单易用的UI界面</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://www.cursor.so/">Cursor</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>基于GPT4的书写助手</li>
-                <li>可用于写作、社交媒体等</li>
-                <li>简单易用的UI界面</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://rytr.me/">Rytr</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>一个写作AI平台，可帮助用户生成文章和内容</li>
-                <li>提供了多种生成选项</li>
-                <li>适合各种类型的内容创建者</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://you.com/">YouGPT</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供基于GPT的文本自动生成工具</li>
-                <li>可生成各种类型的文本，如文章、电子邮件等</li>
-                <li>支持多语言</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td><a href="https://www.jasper.ai/">Jasper</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>AI聊天机器人平台</li>
-                <li>可应用于客户服务、销售和营销等领域</li>
-                <li>支持自定义脚本和扩展</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+  <tr>
+    <td>8.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bzdHN29yMjhadllJQlRuVW1TZkZIbVB3eWsvNW90bmZXbGxseDJmeEVyZz0=" target="_blank"> Xjai.cc </a> </td>
+    <td>😄</td>
+    <td>免费AI绘画/GPT-3.5；付费GPT-4</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bzdHN29yMjhadllJQlRuVW1TZkZIbVB3eWsvNW90bmZXbGxseDJmeEVyZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-</details>
+  <tr>
+    <td>9.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.jpg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ckFXZzhUK3FYZmVTL1lSMVdtWmFUYnhRc0lOZ2pCK3F5N0JoZnhISzNMZz0=" target="_blank"> 20200.cn </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ckFXZzhUK3FYZmVTL1lSMVdtWmFUYnhRc0lOZ2pCK3F5N0JoZnhISzNMZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>10.</td>
+    <td><img src="https://st.ai55.cc/favicon/xiaobailong.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QkYzN1BCR1VON1hEaHliMHd5WmhjN1YvWnBqMVNLZWZxK3BsVHIxUXJuZz0=" target="_blank"> Chatplus.plus </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QkYzN1BCR1VON1hEaHliMHd5WmhjN1YvWnBqMVNLZWZxK3BsVHIxUXJuZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>11.</td>
+    <td><img src="https://st.ai55.cc/favicon/chat.chatbot.sex.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RVlLMk5rRHNQOEZFTGoyM2JUWkdHTDBmTUtXMElycUoxSlJwUVBLRFZMYz0=" target="_blank"> Chatbot.sex </a> </td>
+    <td>🛫😄</td>
+    <td>GPT-4</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RVlLMk5rRHNQOEZFTGoyM2JUWkdHTDBmTUtXMElycUoxSlJwUVBLRFZMYz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>12.</td>
+    <td><img src="https://st.ai55.cc/favicon/chatgptdddd.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UXdoRXExZStqUldFUGxOdGF3NXNKWlpMMWcvdFZpUGJ0RWo3c2ZlZG0xVT0=" target="_blank"> Chatgptdddd.com </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UXdoRXExZStqUldFUGxOdGF3NXNKWlpMMWcvdFZpUGJ0RWo3c2ZlZG0xVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>13.</td>
+    <td><img src="https://st.ai55.cc/favicon/openaigym.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=N01aMUlQVnFCZXk2bjNrcVp0b0VwdkxlUHZvU0RGcnk3eUFSR1J2eko3UT0=" target="_blank"> Chataibase.com </a> </td>
+    <td>🆕😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=N01aMUlQVnFCZXk2bjNrcVp0b0VwdkxlUHZvU0RGcnk3eUFSR1J2eko3UT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>14.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MzNaOE9LbW1xUzZkdjByT0szdDZaUVh3Z1l1bTIzb00vbDg3TVhIL1hQaz0=" target="_blank"> Aiyunos.top </a> </td>
+    <td>😄⭐</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MzNaOE9LbW1xUzZkdjByT0szdDZaUVh3Z1l1bTIzb00vbDg3TVhIL1hQaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>15.</td>
+    <td><img src="https://st.ai55.cc/favicon/chat.aidutu.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Q1BqL0I5QzdaUDNzdndyVmhQLy9zVGdvMU8wQ3hVZDNuQmNMeHR1SlNlOD0=" target="_blank"> Aidutu.cn </a> </td>
+    <td>😄</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Q1BqL0I5QzdaUDNzdndyVmhQLy9zVGdvMU8wQ3hVZDNuQmNMeHR1SlNlOD0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<details open="open">
-<summary><h1>AI应用</h1></summary>
+  <tr>
+    <td>16.</td>
+    <td><img src="https://st.ai55.cc/favicon/promptboom.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=a0ltRzVSQzRXbGZxWXZHcURIMlIvQWFSemhNOE85R1hYT0s1U3g3b0dZST0=" target="_blank"> Promptboom.com </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=a0ltRzVSQzRXbGZxWXZHcURIMlIvQWFSemhNOE85R1hYT0s1U3g3b0dZST0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>17.</td>
+    <td><img src="https://st.ai55.cc/favicon/character.ai.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=VDlGYWJkbVVqNG1JbXhUU0dTM21LVkNVNmwyMmc1VHIzbWxBMGkwdG5DMD0=" target="_blank"> Character.ai </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=VDlGYWJkbVVqNG1JbXhUU0dTM21LVkNVNmwyMmc1VHIzbWxBMGkwdG5DMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-​    
-<h4>论文</h4>
-<table>
-    <tr>
-        <td>
-                <a   href="https://www.explainpaper.com/">Explainpaper</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供一种简单易用的方式来解释和理解学术论文。</li>
-                <li>用户可以上传任何学术论文，并使用高亮文本的方式指定需要解释的部分。</li>
-                <li>AI算法会对高亮部分进行解释，为用户提供更深入的理解。</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.lateral.io/">LATERAL</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供了一个方便的工具，帮助用户整理和归类学术论文。</li>
-                <li>用户可以通过高亮、查找和跳转等功能方便地浏览和理解论文内容。</li>
-                <li>还可以将论文按照不同的主题或分类进行整理，以便日后查询和使用。</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="hhttps://typeset.io/">SCISPACE</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供了一系列强大的功能，帮助用户更好地理解和利用学术论文。</li>
-                <li>可以通过高亮、查找和跳转等功能方便地浏览和理解论文内容，还可以查找相似论文。</li>
-                <li>提供了一种易于使用的问询系统，帮助用户快速获得所需信息。</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://arxivxplorer.com/">arXiv Xplore</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>专门针对arXiv网站上的论文进行搜索和查看。</li>
-                <li>提供了各种过滤和排序选项，帮助用户快速找到所需的论文。</li>
-                <li>还可以查看最新更新和最受欢迎的论文列表。</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.pandagpt.io/">PandaGPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供一个智能问答系统，帮助用户快速获取学术领域相关的信息。</li>
-                <li>采用GPT模型和其他自然语言处理技术，可以自动回答各种问题。</li>
-                <li>支持多种语言和领域，包括计算机科学、数学、物理等。</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.chatpdf.com/">ChatPDF</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供一个方便的PDF阅读工具，帮助用户更好地理解学术论文。</li>
-                <li>可以与其他用户进行对话，并共同解决问题。</li>
-                <li>还可以使用AI算法自动回答各种问题。</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
+  <tr>
+    <td>18.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.jpg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WllEVmNFeFRPR3JvRWlKL0lwT3VlTHlLcldtV3JTYzdPbnFFSWxBeFV1TT0=" target="_blank"> Ailake.top </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WllEVmNFeFRPR3JvRWlKL0lwT3VlTHlLcldtV3JTYzdPbnFFSWxBeFV1TT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>19.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QnFhL2I3SVFYWGU1eDBvalFSM2hyZWZhU0g3MkgxbnZQSlpmNUpMempCTT0=" target="_blank"> Aichatos.top </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QnFhL2I3SVFYWGU1eDBvalFSM2hyZWZhU0g3MkgxbnZQSlpmNUpMempCTT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>表格</h4>
-<table>
-    <tr>
-        <td>
-                <a href="https://chatexcel.com/convert">ChatExcel</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>表格转换工具</li>
-                <li>支持将PDF、图像等非结构化数据自动转换为可编辑的电子表格</li>
-                <li>采用人工智能技术，能够自动识别表格中的列、行、单元格及内容</li>
-                <li>提供多种输出格式和选项，可根据需求进行定制</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://excelformulabot.com/">Excelformulabot</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>Excel公式自动化处理工具</li>
-                <li>支持通过自然语言输入方式生成Excel公式</li>
-                <li>可以自动解析文本中的数学运算符和关键字，并生成相应的公式</li>
-                <li>提供多种公式类型和函数库，包括基本数学运算、统计分析、逻辑判断等功能</li>
-                <li>支持对Excel文件进行批量处理，并可自定义输出格式和选项</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
+  <tr>
+    <td>20.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bEVvY3lyeldTTEx2UkNtN1NnVWJyYjZRWGMrdDArSXdqRFpDV2V0TENBST0=" target="_blank"> Hz-it-dev.com </a> </td>
+    <td>😄</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bEVvY3lyeldTTEx2UkNtN1NnVWJyYjZRWGMrdDArSXdqRFpDV2V0TENBST0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>21.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=YTVJaHpUTU5LWUYwRzRLd2RyVXdCbjVNOHFyRTBYZ0hTUnh1WVNxZGQ4QT0=" target="_blank"> Peo.icu </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=YTVJaHpUTU5LWUYwRzRLd2RyVXdCbjVNOHFyRTBYZ0hTUnh1WVNxZGQ4QT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>AI绘画</h4>
-<table>
-    <tr>
-        <td>
-            <a href="https://www.jrnylist.com/">Jrnylist</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供关键词参考功能，帮助用户生成创作灵感</li>
-                <li>支持多种语言和领域的关键词生成，包括文学、科技、新闻、教育等</li>
-                <li>采用自然语言处理和机器学习技术，能够自动识别和分类关键词</li>
-                <li>提供高质量的关键词推荐，可提升创作效率和质量</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://prompt.noonshot.com/">Noonshot</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供Midjourney关键词生成功能，帮助用户从Midjourney图像中提取灵感</li>
-                <li>采用深度学习算法，能够自动识别和提取Midjourney图像的主题和元素</li>
-                <li>可以根据用户需求进行定制化设置，生成符合要求的Midjourney关键词</li>
-                <li>支持多种输出格式和选项，如文本、图像、视频等</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.prompthunt.com/">Prompt Hunt</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供DALL·E和Midjourney绘画功能，支持自定义内容生成</li>
-                <li>采用深度学习算法，能够自动识别和提取图片元素，并进行组合与创作</li>
-                <li>可以根据用户需求进行定制化设置，生成符合要求的绘画作品</li>
-                <li>支持多种输出格式和选项，如文本、图像、视频等</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://promptbase.com/">PromptBase</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供DALL·E、Midjourney、ChatGPT、Stable Diffusion绘画功能</li>
-                <li>支持多种创作场景和主题，如科幻、恐怖、浪漫等</li>
-                <li>可以根据用户的输入文字或关键词，自动生成相应的绘画作品</li>
-                <li>提供高质量的绘画作品和自定义设置选项，满足用户不同需求</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://app.hypotenuse.ai/invited">Hypotenuse AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供文字内容和绘画生成功能，可自动化生成与文本相关的图像内容</li>
-                <li>采用深度学习算法，能够根据输入的文本自动生成符合要求的图像</li>
-                <li>支持多种输出格式和选项，如文本、图像、视频等</li>
-                <li>可以根据用户需求进行定制化设置，生成高质量的绘画作品</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+  <tr>
+    <td>22.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WS9wSFBJcUpSZWtEUS9HV0E2ejZSVllKa3R3UnVwKzRaMGhvUlo5N2JKRT0=" target="_blank"> 154.12.55.27 </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WS9wSFBJcUpSZWtEUS9HV0E2ejZSVllKa3R3UnVwKzRaMGhvUlo5N2JKRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>23.</td>
+    <td><img src="https://st.ai55.cc/favicon/chat.scorpii.net.favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=R1VnMmpNNnR1Q1pwNjZIc1dJRmsvUXlWMGZveDhCOUNKNlF2VmR6OVNTND0=" target="_blank"> Scorpii.net </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=R1VnMmpNNnR1Q1pwNjZIc1dJRmsvUXlWMGZveDhCOUNKNlF2VmR6OVNTND0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>问答</h4>
-<table>
-    <tr>
-        <td>
-                <a href="https://wpdocs.chat/">ChatWP</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>Wordpress问题方案</li>
-                <li>自主学习能力</li>
-                <li>自定义回答</li>
-                <li>多语言支持</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.perplexity.ai/">Perplexity AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>AI搜索</li>
-                <li>回答问题</li>
-                <li>支持多种搜索方式（文本、语音、图像等）</li>
-                <li>智能推荐相似问题</li>
-                <li>可定制的搜索结果展示页面</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
+  <tr>
+    <td>24.</td>
+    <td><img src="https://st.ai55.cc/favicon/t66.ltd.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=dXRiTFNjV0lhc05panFMcEIzS0dKWE1qSy9JYWpIejVXWlZGTTdYQWZXdz0=" target="_blank"> Nb8.ltd </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=dXRiTFNjV0lhc05panFMcEIzS0dKWE1qSy9JYWpIejVXWlZGTTdYQWZXdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>25.</td>
+    <td><img src="https://st.ai55.cc/favicon/askme.mom.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=amN5M2grUU9lNng2MENEL1RzR3lXUFFUVStTQkdPTHIvZ1czcXlRcURRcz0=" target="_blank"> Betai55.uk </a> </td>
+    <td>😄</td>
+    <td>密码：586-481-535C</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=amN5M2grUU9lNng2MENEL1RzR3lXUFFUVStTQkdPTHIvZ1czcXlRcURRcz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>写作</h4>
-<table>
-    <tr>
-        <td><a href="https://xiezuocat.com/">写作猫</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>一款基于AI的自动写作软件</li>
-                <li>可自动生成文章、广告语、产品描述等</li>
-                <li>支持多种行业领域，如电商、旅游、金融等</li>
-                <li>提供多种AI算法，如GPT-3、T5等</li>
-                <li>支持高度定制化，用户可根据需求调整生成的文本质量、长度等参数</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://aiscreenwriter.com/">AI Screenwriter</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>改善剧本，包括剧情、角色、对白等方面</li>
-                <li>支持多种类型的剧本，如电影、电视剧、动画等</li>
-                <li>提供多种AI模型，如LSTM、GAN等</li>
-                <li>支持多人协作，可实现在线编辑和共享</li>
-                <li>提供云端存储功能，自动保存用户的剧本历史版本</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
+  <tr>
+    <td>26.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpQ3haMmpLa3VEQldrTzJHRU1USW5QVT0=" target="_blank"> Qdymys.cn </a> </td>
+    <td>😄</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpQ3haMmpLa3VEQldrTzJHRU1USW5QVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>27.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=LzQ4bFNQY1FtWVp5eDU4czM1UEd5Mnl2ZlU3UjRaRUt6WitqV2dWUDlPbz0=" target="_blank"> Kebakeba.com </a> </td>
+    <td>🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=LzQ4bFNQY1FtWVp5eDU4czM1UEd5Mnl2ZlU3UjRaRUt6WitqV2dWUDlPbz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>28.</td>
+    <td><img src="https://st.ai55.cc/favicon/t66.ltd.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UzBkd0swSElCUGtVR01tMVh5UGtnOTBHSnBVUjdEMHVoM0N1YzZCZWNtaz0=" target="_blank"> T66.ltd </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UzBkd0swSElCUGtVR01tMVh5UGtnOTBHSnBVUjdEMHVoM0N1YzZCZWNtaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>文本内容</h4>
-<table>
-    <tr>
-        <td>
-            <a href="https://magickpen.com/">MagickPen</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供在线手写识别和转换服务</li>
-                <li>支持多种语言和字体的手写输入</li>
-                <li>可以在网页上直接书写或上传手写图片/文件</li>
-                <li>使用AI技术进行手写文字识别和转换，提高准确率</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.okaaaay.com/">OKaaaay</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供在线定制化LOGO设计服务</li>
-                <li>通过AI技术生成多样化的LOGO设计方案</li>
-                <li>用户可以自由选择、编辑、调整LOGO设计方案</li>
-                <li>价格相对较为亲民，可满足个人和小型企业的需求</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="http://easy-peasy.ai/">Easy-Peasy.AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供在线AI图像处理和增强服务</li>
-                <li>支持多种常见的图像处理需求，如去背景、图像压缩等</li>
-                <li>使用AI技术进行图像处理和增强，效果更加稳定和高质量</li>
-                <li>可以通过网页、API等方式接入服务，并集成到其他应用中</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://type.ai/">TypeAI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>AI续写，类似于Notion AI</li>
-                <li>支持多种语言和字体的输入和输出</li>
-                <li>可以识别和转换手写、印刷、数字等多种类型的字体</li>
-                <li>使用AI技术进行字体识别、匹配和转换，提高准确率</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://copymatic.ai/">copymatic</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供在线文本摘要和生成服务</li>
-                <li>支持对大篇幅文章进行快速的摘要处理</li>
-                <li>可以根据用户输入的关键字或主题，自动生成相关文章</li>
-                <li>使用AI技术进行文本处理和生成，提高效率和准确率</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
+  <tr>
+    <td>29.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=VlVFVlMrWlRDNnNzdUVpK2I4Y3pTK1JSZThHTGRiK2hBVW1tU0E2aVlHWT0=" target="_blank"> Cutim.top </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=VlVFVlMrWlRDNnNzdUVpK2I4Y3pTK1JSZThHTGRiK2hBVW1tU0E2aVlHWT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>30.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=VjQ2YjJ5ZW9YRGZiK2VwRjExUFhSNStjb0pIUlF2WUJBc09JZWdJOFM3bEFUMllrQ3FocHZRREQ4enI5WXk0Ug==" target="_blank"> Forwardminded.xyz </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=VjQ2YjJ5ZW9YRGZiK2VwRjExUFhSNStjb0pIUlF2WUJBc09JZWdJOFM3bEFUMllrQ3FocHZRREQ4enI5WXk0Ug==" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>理解内容</h4>
-<table>
-    <tr>
-        <td>
-            <a href="https://b.jimmylv.cn/">BiliGPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>自动提取B站视频的中心思想或总结</li>
-                <li>支持多语种文本理解和生成</li>
-                <li>可用于快速浏览学习、资讯、漫画等内容</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.summarize.tech/">summarize.tech: AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>自动获取YouTube视频的摘要或简介</li>
-                <li>支持自定义摘要长度和关键词提取</li>
-                <li>可以帮助用户快速了解视频主题和内容</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.solidpoint.ai/">SolidPoint</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>自动提取视频的中心思想或总结</li>
-                <li>支持输出多种格式的文本摘要和可视化结果</li>
-                <li>可以帮助用户快速了解视频内容和主题，提高学习效率</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.humata.ai/">Humata</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提高阅读效率</li>
-                <li>总结价值内容</li>
-                <li>支持多种文件类型的文本摘要和个性化定制</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
+  <tr>
+    <td>31.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=YVdoVlhCZjFDbTBBV0RpVkN0NlpYbHZYcGtDZExPVXo0K21EWk1xK2tTcz0=" target="_blank"> 1chat.cc </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=YVdoVlhCZjFDbTBBV0RpVkN0NlpYbHZYcGtDZExPVXo0K21EWk1xK2tTcz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>32.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpRm42RHdROUUremJtbitYVDlzcmpiVT0=" target="_blank"> Dreamtrend.net </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aUJwcmNMTzBxZVlZeTA3WFQyNmxpRm42RHdROUUremJtbitYVDlzcmpiVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
+  <tr>
+    <td>33.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TVd2Y3U2UmN3MnVqTHVhYkNIWXgweGovL1lzMXRTdzdZanhRUWU4Q09wRT0=" target="_blank"> Skybyte.me </a> </td>
+    <td>😄⭐</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TVd2Y3U2UmN3MnVqTHVhYkNIWXgweGovL1lzMXRTdzdZanhRUWU4Q09wRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>翻译</h4>
-<table>
-    <tr>
-        <td>
-                <a href="https://fsys.app/">风声雨声</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>收费，非免费</li> 
-                <li>提供多语言翻译服务，支持中英文、中日文、中韩文等多种语言组合</li>
-                <li>基于深度学习技术，自动识别并纠正常见的语言错误</li>
-                <li>支持多种输入方式，如文本、语音、图像等</li>
-                <li>提供高度定制化选项，可根据用户需求调整翻译质量、速度等参数</li>
-                <li>支持API接入，实现快速集成到用户的应用中</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
+  <tr>
+    <td>34.</td>
+    <td><img src="https://st.ai55.cc/favicon/askme.mom.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RVIreEptRHZmT1NFMjRqTlhvUmovR212YnRnMUdnRDRjRitwcEpINW91TT0=" target="_blank"> Cytsee.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RVIreEptRHZmT1NFMjRqTlhvUmovR212YnRnMUdnRDRjRitwcEpINW91TT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>35.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=gpt90.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MHBZMlB5Ump6TzBxamJLcFBvM2RkTzB2ZTBhQ0F2WGVRYzFGaHBWWllsTT0=" target="_blank"> Gpt90.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MHBZMlB5Ump6TzBxamJLcFBvM2RkTzB2ZTBhQ0F2WGVRYzFGaHBWWllsTT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>AI营销</h4>
-<table>
-    <tr>
-        <td>
-                <a href="https://ai-mailer.com/">Ai Mailer</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>生成邮件内容</li>
-                <li>自动发送邮件</li>
-                <li>跟踪邮件效果</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.hoppycopy.co/">HoppyCopy</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>邮箱营销</li>
-                <li>自动生成电子邮件主题、正文和呼吁行动（CTA）</li>
-                <li>提供对竞争对手的分析，以及有关营销活动和电子邮件营销策略的建议</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.peppertype.ai/">Peppertype</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>营销内容</li>
-                <li>根据目标受众和品牌风格智能生成社交媒体帖子、博客文章等多种类型的内容</li>
-                <li>提供编辑工具和支持定制化的选项</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://hey.marketingblocks.ai/">MarketingBlocks</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>营销内容</li>
-                <li>通过可视化拖放界面，自定义生成各种类型的多媒体广告、社交媒体帖子和营销文案</li>
-                <li>支持将生成的内容导出为图片、视频和HTML代码等格式</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://yaara.ai/">Yaara</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>营销内容</li>
-                <li>根据目标受众和内容类型，智能生成博客文章、电子邮件、社交媒体帖子等多种类型的内容</li>
-                <li>提供编辑工具和支持定制化的选项</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.shakespeare.ai/">Shakespeare</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>营销内容</li>
-                <li>智能生成品牌语音、标语和广告文案等多种类型的内容</li>
-                <li>支持将生成的内容导出为多种格式，如文本、图片和HTML代码等</li>
-            </ul>
-        </td> 
-    </tr>
-        <tr>
-        <td>
-            <a href="https://www.copy.ai/">copyai</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>营销内容</li>
-                <li>根据目标受众和品牌风格智能生成广告文案、电子邮件、社交媒体帖子等多种类型的内容</li>
-                <li>支持编辑工具和定制化选项</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://seovendor.co/">SEO GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>网站SEO</li>
-                <li>提供针对关键词的搜索引擎优化建议和内容创意</li>
-                <li>根据搜索意图和目标受众生成优化文章和元描述等内容</li>
-                <li>可自动化提交网站地图和跟踪排名变化等数据</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.yarnit.app/">Yarnit</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>PPT或海报</li>
-                <li>智能生成幻灯片、海报和社交媒体帖子等多种类型的视觉内容</li>
-                <li>提供各种模板和设计风格的选项，支持上传自定义图片和图标</li>
-                <li>导出文件格式包括PDF、PNG、JPEG、GIF等</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
+  <tr>
+    <td>36.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=LzgrcFpyWHVKWW5iN1dTbGZCSFhmL3ZmYjExakMrV09Mb1B5RVRrTHZUZz0=" target="_blank"> Gpt6.lol </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=LzgrcFpyWHVKWW5iN1dTbGZCSFhmL3ZmYjExakMrV09Mb1B5RVRrTHZUZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>37.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ZVhwcmdQM2I1am9KNldRVUxpUnRGam52UVl5U1greG1yYlZ4VHl1aU5OUT0=" target="_blank"> Moeyy.cn </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ZVhwcmdQM2I1am9KNldRVUxpUnRGam52UVl5U1greG1yYlZ4VHl1aU5OUT0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>编程</h4>
-<table>
-    <tr>
-        <td><a href="https://huggingface.co/">Hugging Face</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供各种自然语言处理工具和模型，如BERT、GPT等</li>
-                <li>支持多种编程语言和框架</li>
-                <li>拥有活跃的社区和丰富的资源</li>
-            </ul>
-        </td>
-    </tr>
-</table>
+  <tr>
+    <td>38.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QmFnTDg2TlVFVjJ5MzluM1VXSkRsTTBlZm9YSDUrcjVaVncvVGhCdk9Faz0=" target="_blank"> Gpt-5.asia </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QmFnTDg2TlVFVjJ5MzluM1VXSkRsTTBlZm9YSDUrcjVaVncvVGhCdk9Faz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-[👆回到目录👆](#目录)
+  <tr>
+    <td>39.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=box.xboat.cc" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=b2IxcjVhT04zVG5BWnBlRUlYc215c2xuR1p2Z25qcTZRQUxqdUppRnJEbz0=" target="_blank"> Xboat.cc </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=b2IxcjVhT04zVG5BWnBlRUlYc215c2xuR1p2Z25qcTZRQUxqdUppRnJEbz0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
-<h4>设计</h4>
-<table>
-    <tr>
-        <td><a href="https://www.vondy.com/">Vondy</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>一个AI自动设计平台，可帮助用户设计各种图形和图像</li>
-                <li>支持多种设计工具和模板</li>
-                <li>简单易用的UI界面</li>
-            </ul>
-        </td>
-    </tr>
+  <tr>
+    <td>40.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=eHBwQjNFdWJDQmNLVStoZ2pwZmh4bTVGY0tzUmFjbjFuWVpINEpkdHUyaz0=" target="_blank"> Ai-eye.org </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=eHBwQjNFdWJDQmNLVStoZ2pwZmh4bTVGY0tzUmFjbjFuWVpINEpkdHUyaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>41.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WUY4TllFd2R3TlVvQmlLR3FYN3VuVmRXck5KZk1CT3F2d3BqdlVPa2pKdz0=" target="_blank"> Gogsu.com </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WUY4TllFd2R3TlVvQmlLR3FYN3VuVmRXck5KZk1CT3F2d3BqdlVPa2pKdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>42.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=VnFkWkh1UjQvVkxoS0p0T2F1MENwWXBXbEg5SDR3b0ZDRERkL2pYVGN3RT0=" target="_blank"> Alllinkai1.com </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=VnFkWkh1UjQvVkxoS0p0T2F1MENwWXBXbEg5SDR3b0ZDRERkL2pYVGN3RT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>43.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UGVBZXRHU09EQlMvRE5yck83ZGNaTElsNCtHUndGaVVnYStPeGdCakZMbz0=" target="_blank"> 121.201.123.162 </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UGVBZXRHU09EQlMvRE5yck83ZGNaTElsNCtHUndGaVVnYStPeGdCakZMbz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>44.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MlRVNkQ2ZWRQcVZ5K0VneGk1WU00ZmdmeGhwZ0kxdk1DdGtub3lPcE9YQT0=" target="_blank"> Lingdong5.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MlRVNkQ2ZWRQcVZ5K0VneGk1WU00ZmdmeGhwZ0kxdk1DdGtub3lPcE9YQT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>45.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UHlEMWFoZ0d2STRMMjJoY2xDWllkMHNySk5pZ1p2UlI2bEhwSjdKREhqST0=" target="_blank"> Gptdemo.net </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UHlEMWFoZ0d2STRMMjJoY2xDWllkMHNySk5pZ1p2UlI2bEhwSjdKREhqST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>46.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aEw0MzMxWWhJTm1qdjhOL1FYUnVZcFZWaTRJdm55d2RBeUV2a2FyQWFlcz0=" target="_blank"> Laicj.cn </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aEw0MzMxWWhJTm1qdjhOL1FYUnVZcFZWaTRJdm55d2RBeUV2a2FyQWFlcz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>47.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TCtKUysydGZMSWU1NFNXWldLQ3BRL01VZHNsRmJRNVdYUGpxSENtU1plVT0=" target="_blank"> Ccppcc.com </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TCtKUysydGZMSWU1NFNXWldLQ3BRL01VZHNsRmJRNVdYUGpxSENtU1plVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>48.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RkllU1BUNWpudVVlcE1Lekd0b0dUMHBDZllvSStkTXhURFZkUVIybElNdz0=" target="_blank"> Chat-alnkplus.top </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RkllU1BUNWpudVVlcE1Lekd0b0dUMHBDZllvSStkTXhURFZkUVIybElNdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>49.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=U1dZejdDTGd2bUFkVFh2ZmlPaVhDOGZVTmhZOVo3Vnd2a1F5L2dhTTRHOD0=" target="_blank"> Chat2doc.cn </a> </td>
+    <td>🛫😄</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=U1dZejdDTGd2bUFkVFh2ZmlPaVhDOGZVTmhZOVo3Vnd2a1F5L2dhTTRHOD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>50.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=L2hpdE1wZXE4b2VQcTMzbkJETGF4VEdoNWdSREM1OW5QVXczSjd6UGFvST0=" target="_blank"> Gptplus.one </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=L2hpdE1wZXE4b2VQcTMzbkJETGF4VEdoNWdSREM1OW5QVXczSjd6UGFvST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>51.</td>
+    <td><img src="https://st.ai55.cc/favicon/default2.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WFBDaWZWOVpKZmpDaU5LMVFTU1RCRTdmTU92SEJnUTc1eFI2WXlrNjM1RT0=" target="_blank"> Aigpt.one </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WFBDaWZWOVpKZmpDaU5LMVFTU1RCRTdmTU92SEJnUTc1eFI2WXlrNjM1RT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>52.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-robot2-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=emIxTndTbnAxOWRlR2hXYll1dlNIVXhvVGdKeGUwWUNLd2ZqOFJLWEx3RFA5c29VclcvWUIxcjBWQmdQREVkVQ==" target="_blank"> Bnu120.sapce </a> </td>
+    <td>🛫😄⭐ </td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=emIxTndTbnAxOWRlR2hXYll1dlNIVXhvVGdKeGUwWUNLd2ZqOFJLWEx3RFA5c29VclcvWUIxcjBWQmdQREVkVQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>53.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aXpqRGZkZHFZK1pwUHZMMThyYURNazZFd3U5dU4yKzJTTjV6SitYTGkxcz0=" target="_blank"> Toyaml.com </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aXpqRGZkZHFZK1pwUHZMMThyYURNazZFd3U5dU4yKzJTTjV6SitYTGkxcz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>54.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MUxnWG51WjkvL2VhZGFZblFCQjRjWEY4YTY1TFY2bHNQRlBXR21VeDQ0Qnd1a2Nnd3Rqb2NYc1AzQ0hmMTU0OQ==" target="_blank"> Huggingface.co </a> </td>
+    <td>🛫😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MUxnWG51WjkvL2VhZGFZblFCQjRjWEY4YTY1TFY2bHNQRlBXR21VeDQ0Qnd1a2Nnd3Rqb2NYc1AzQ0hmMTU0OQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>55.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-robot-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UlpleHhydFg2ejhpdkR3MWxyZFlhNmI5SC9aYU1xTmdaM2QwSHduQld2QT0=" target="_blank"> Zhulei.xyz </a> </td>
+    <td>🛫😄⭐ </td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UlpleHhydFg2ejhpdkR3MWxyZFlhNmI5SC9aYU1xTmdaM2QwSHduQld2QT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>56.</td>
+    <td><img src="https://st.ai55.cc/favicon/chat.forefront.ai.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MVdEaDQ3SXVlaWtNai9OWmlWUy9GUUJlMk5LRWNLY2VSTkxqdjFBTW1yOD0=" target="_blank"> Forefront.ai </a> </td>
+    <td>🛫🔑😄</td>
+    <td>需要登陆</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MVdEaDQ3SXVlaWtNai9OWmlWUy9GUUJlMk5LRWNLY2VSTkxqdjFBTW1yOD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>57.</td>
+    <td><img src="https://st.ai55.cc/favicon/openmao.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=VFZFRUltWHM4eFdoMjdEdlZHS0tteFNwZlFJblRycE9Vb0JWVm41ditZMD0=" target="_blank"> Panchuang.net </a> </td>
+    <td>🛫😄⭐ </td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=VFZFRUltWHM4eFdoMjdEdlZHS0tteFNwZlFJblRycE9Vb0JWVm41ditZMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>58.</td>
+    <td><img src="https://st.ai55.cc/favicon/default2.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ZjRWWVNKbk1CRVYwakxtQ2p5WWw3TlU5eTdFc1ZmcWt1UW9LV2JRMmdMRT0=" target="_blank"> Manongzyg.one </a> </td>
+    <td>🆕🔑</td>
+    <td>关注公众号获取密码</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ZjRWWVNKbk1CRVYwakxtQ2p5WWw3TlU5eTdFc1ZmcWt1UW9LV2JRMmdMRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>59.</td>
+    <td><img src="https://st.ai55.cc/favicon/geekr.dev.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=cE11Mzg5MkVic21mRUREeVJIVnlac0N4QWl1WDQ0OVdBUTg5RGRObmdHRT0=" target="_blank"> Wobcw.com </a> </td>
+    <td>🛫😄</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=cE11Mzg5MkVic21mRUREeVJIVnlac0N4QWl1WDQ0OVdBUTg5RGRObmdHRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>60.</td>
+    <td><img src="https://cdn.51mskd.com/ai/logo-mini-app.jpg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=K05FSHZXb2wyUm9Gc0ZTNTdlU1J6aGtjZDh1VlZLaXZPMkhudC82WDQyMD0=" target="_blank"> 2dog.io </a> </td>
+    <td>🛫😄</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=K05FSHZXb2wyUm9Gc0ZTNTdlU1J6aGtjZDh1VlZLaXZPMkhudC82WDQyMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>61.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ZnFNR1VXNitjUXBjL0JoUXQ4ZlhKWWpheC9qbjZKaFlpSzdTb1pjR0VXcz0=" target="_blank"> Nbchat.github.io </a> </td>
+    <td>🛫😄⭐ </td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ZnFNR1VXNitjUXBjL0JoUXQ4ZlhKWWpheC9qbjZKaFlpSzdTb1pjR0VXcz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>62.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=eVB6UnZmRmxWU0J1TUJhK0dPRUt4enpUZGtac0xCSHo4dnJOcmtwVXFtS2FTczRtamVIRlZ5TXM5K3AyeVYyOWlyWVY5Znk3WW1aTmtvUmJhd21DNGFHRllDWWh1S2lQeklJS29oK01pT3pDRFVOcWgxTk13UWhvVTRRUUV2RnZEd1RlT2ZPMFFwQkVtbEVWNTN0Yk1pS0pMUU9EcDg3eDcvUnJlcmdkOUtTRkVFOVNFdmJlT3lqMWZpemR2Vlp2VzJaRkhyNjBqcFJXR2xmVCsxRDh6Zz09" target="_blank"> Heimoshuiyu.github.io </a> </td>
+    <td>🛫😄⭐</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=eVB6UnZmRmxWU0J1TUJhK0dPRUt4enpUZGtac0xCSHo4dnJOcmtwVXFtS2FTczRtamVIRlZ5TXM5K3AyeVYyOWlyWVY5Znk3WW1aTmtvUmJhd21DNGFHRllDWWh1S2lQeklJS29oK01pT3pDRFVOcWgxTk13UWhvVTRRUUV2RnZEd1RlT2ZPMFFwQkVtbEVWNTN0Yk1pS0pMUU9EcDg3eDcvUnJlcmdkOUtTRkVFOVNFdmJlT3lqMWZpemR2Vlp2VzJaRkhyNjBqcFJXR2xmVCsxRDh6Zz09" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>63.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QTVJYnZ1Y1ZSQzBIZ1hNelc1cDZDWTdmMHBmYlo2R29OWGVlQlU4Z205TT0=" target="_blank"> New-bing.club </a> </td>
+    <td>🆕🔑</td>
+    <td>免费3.5，付费GPT-4</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QTVJYnZ1Y1ZSQzBIZ1hNelc1cDZDWTdmMHBmYlo2R29OWGVlQlU4Z205TT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>64.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Z0VLemZkSzRXeVVERkdhV1h1eU1lYk4zL2NPRkl3Vjh5T0hCdFo2aFVmND0=" target="_blank"> 1gpt.uk </a> </td>
+    <td>🛫🔑</td>
+    <td>密码：4950602</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Z0VLemZkSzRXeVVERkdhV1h1eU1lYk4zL2NPRkl3Vjh5T0hCdFo2aFVmND0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>65.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=gpt.zsqt.cc" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=eVlwdFUxeXdPNFU3M1VYb0ROMjhhQ29PK3l0V3hUY3hNeERpRit0YkVSWT0=" target="_blank"> Zsqt.cc </a> </td>
+    <td>🔑</td>
+    <td>关注公众号获取密码</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=eVlwdFUxeXdPNFU3M1VYb0ROMjhhQ29PK3l0V3hUY3hNeERpRit0YkVSWT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>66.</td>
+    <td><img src="https://st.ai55.cc/favicon/ai.ikeyi.top.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ejRUcHRPT2M1SXdDRys2dU9aZHFsSDRpLytmbU9jN1NZRGpoOXpVTjJ3TT0=" target="_blank"> Ikeyi.top </a> </td>
+    <td>🆕🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ejRUcHRPT2M1SXdDRys2dU9aZHFsSDRpLytmbU9jN1NZRGpoOXpVTjJ3TT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>67.</td>
+    <td><img src="https://st.ai55.cc/favicon/zhenbs.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Ym1rRXBXZHNiUTFBYnVRWW42ZGlMWWZJak5aeHFyS05FLzM4Tm9GOHk3TT0=" target="_blank"> Zhenbs.com </a> </td>
+    <td>🆕🔑</td>
+    <td>3每天用, 分享可无限免费用gpt4</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Ym1rRXBXZHNiUTFBYnVRWW42ZGlMWWZJak5aeHFyS05FLzM4Tm9GOHk3TT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>68.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=cWF0TXJxdEpSTlBhTkVjbVNKMkhnMGZSdGxEbUduTkV2UnlxUm9VSExxaz0=" target="_blank"> Chatcleand.xyz </a> </td>
+    <td>🔑</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=cWF0TXJxdEpSTlBhTkVjbVNKMkhnMGZSdGxEbUduTkV2UnlxUm9VSExxaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>69.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=amJ5U2I1d255KzNDc21jV1pLanVOUm5GTTlWbjd2aEQ5QVJZV3hWbWFtWT0=" target="_blank"> Tig.im </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=amJ5U2I1d255KzNDc21jV1pLanVOUm5GTTlWbjd2aEQ5QVJZV3hWbWFtWT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>70.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=cool-js.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bEdRdjJaQVZ2ZXRqUFh0bHY1cU5PTHI1TzV2OXROV2M3bFAyYy9sU0NGQVhLNlFta0sxYUNTb3VaZWZ1WTE3aQ==" target="_blank"> Cool-js.com </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bEdRdjJaQVZ2ZXRqUFh0bHY1cU5PTHI1TzV2OXROV2M3bFAyYy9sU0NGQVhLNlFta0sxYUNTb3VaZWZ1WTE3aQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>71.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UEk5aVJSVUUvc014THE4eWdKQmtUR1R4SUUzQ0cyR1hMUlV3K3pza2lpcz0=" target="_blank"> Douresources.com </a> </td>
+    <td>🛫</td>
+    <td>关注公众号；AI绘图，聊天免费</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UEk5aVJSVUUvc014THE4eWdKQmtUR1R4SUUzQ0cyR1hMUlV3K3pza2lpcz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>72.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RVl1WU9JU1ZHOE9yak1pNExWSEg0eWt4MCtTVitaTWw2cEM5Z3NhdlhhMD0=" target="_blank"> Hxkj.vip </a> </td>
+    <td>🛫 🔑</td>
+    <td> 需要登陆</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RVl1WU9JU1ZHOE9yak1pNExWSEg0eWt4MCtTVitaTWw2cEM5Z3NhdlhhMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>73.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MUdJNTNwY1ZJaVJhbTNhdDVxK1RnQU5hWi83N3hCYWtzZHFHS29wSzZUST0=" target="_blank"> Ora.sh </a> </td>
+    <td>🛫🔑</td>
+    <td>每天免费5次gpt4</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MUdJNTNwY1ZJaVJhbTNhdDVxK1RnQU5hWi83N3hCYWtzZHFHS29wSzZUST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>74.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ZDhXYUk0TGRpbXVCa01jeGNza05ibjJ6SDRONnE4QStlNnVqQ1IzTklNVlN5Q09ONjZURGh4T0JGL3BvSkFTSQ==" target="_blank"> Zhile.io </a> </td>
+    <td>🛫🔑</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ZDhXYUk0TGRpbXVCa01jeGNza05ibjJ6SDRONnE4QStlNnVqQ1IzTklNVlN5Q09ONjZURGh4T0JGL3BvSkFTSQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>75.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Qm9LajlzYlF3UHZ6STMxVXRWTHUvbnJjRWhZZC9CSEZhWXJTNlVQYUpTQ1BIUUZqYkkwM29GdFI2Y3RCNnlYdQ==" target="_blank"> Quxuetrip.com </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Qm9LajlzYlF3UHZ6STMxVXRWTHUvbnJjRWhZZC9CSEZhWXJTNlVQYUpTQ1BIUUZqYkkwM29GdFI2Y3RCNnlYdQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>76.</td>
+    <td><img src="https://st.ai55.cc/favicon/bo-e.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=VE5VUVF2aFFLS0RpUE5UN2g1ZE9OdkZqVzIwTjdNOFc2eFFvRUtTZmpsRT0=" target="_blank"> Bo-e.com </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=VE5VUVF2aFFLS0RpUE5UN2g1ZE9OdkZqVzIwTjdNOFc2eFFvRUtTZmpsRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>77.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Vk5KU1VGM3pjUnFaWDNxbXpNSFowQmRHL2hxVVM0K0k4OTZuOGhmY0VoUT0=" target="_blank"> Mwiki.top </a> </td>
+    <td>🛫🔑</td>
+    <td>公共账户: Sydney-Ai 密码:Sydeny-Ai</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Vk5KU1VGM3pjUnFaWDNxbXpNSFowQmRHL2hxVVM0K0k4OTZuOGhmY0VoUT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>78.</td>
+    <td><img src="https://st.ai55.cc/favicon/wuguokai.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=YXpCZzBMcGRFYVlraElZR1ZWd2ZvV0hDODh5Y2oyckdudWVuaC9PNUJkdz0=" target="_blank"> Chatgptmirror.com </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=YXpCZzBMcGRFYVlraElZR1ZWd2ZvV0hDODh5Y2oyckdudWVuaC9PNUJkdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>79.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=cG1Kck1iQzdwVnlBYiswM0tPOXdZY1BnTE1Idk5FNFJPdmdGK0hIUVZ1QT0=" target="_blank"> Aishort.top </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=cG1Kck1iQzdwVnlBYiswM0tPOXdZY1BnTE1Idk5FNFJPdmdGK0hIUVZ1QT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>80.</td>
+    <td><img src="https://st.ai55.cc/favicon/teach-anything.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RVFoM0hzdWVpWEVVbG50ZVlQdVVtT2FvZDBPeEdPNVVINTR5b0lwekRnOD0=" target="_blank"> Teach-anything.com </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RVFoM0hzdWVpWEVVbG50ZVlQdVVtT2FvZDBPeEdPNVVINTR5b0lwekRnOD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>81.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UE5rZzJBcDV6NThLY1crYlBCYVltYmNHU2VZTjVXaGZpZ0owQkFxdkFWND0=" target="_blank"> 94gpt.com </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UE5rZzJBcDV6NThLY1crYlBCYVltYmNHU2VZTjVXaGZpZ0owQkFxdkFWND0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>82.</td>
+    <td><img src="https://st.ai55.cc/favicon/gpt.getshare.net.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=VXVKRnAxYitKWGxtWXREbmtLZlZCOTh6WHR0MjlScVNEK3ZGVDBqZm80Yz0=" target="_blank"> Getshare.net </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=VXVKRnAxYitKWGxtWXREbmtLZlZCOTh6WHR0MjlScVNEK3ZGVDBqZm80Yz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>83.</td>
+    <td><img src="https://st.ai55.cc/favicon/openprompt.co.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=S3N4dUdXRXpvRk9HcEYreDh3bVhYSWlEMWs4U202QkRqV1RrNnVKMmNIaz0=" target="_blank"> Openprompt.co </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=S3N4dUdXRXpvRk9HcEYreDh3bVhYSWlEMWs4U202QkRqV1RrNnVKMmNIaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>84.</td>
+    <td><img src="https://st.ai55.cc/favicon/xc.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TWRFdHpLdlhES0Zaeno2ZnNPa1IxUT09" target="_blank"> Xc.com </a> </td>
+    <td>🛫</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TWRFdHpLdlhES0Zaeno2ZnNPa1IxUT09" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>85.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.jpg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UHhTdVJGNGdhQk9zVFYwQzROM0s1cFBKOGNmaGYvcko3aWhyTy85VWRjZz0=" target="_blank"> Esojourn.org </a> </td>
+    <td>🛫</td>
+    <td>访问密码：pub-03-$dm65ozKre</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UHhTdVJGNGdhQk9zVFYwQzROM0s1cFBKOGNmaGYvcko3aWhyTy85VWRjZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>86.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ODJLSlhTd0xpOEVhTnlSeUlIbHRoQ3FqNXM2cGFhZ2UwdkRxZUNnV3VLdz0=" target="_blank"> Aivesa.site </a> </td>
+    <td>🛫🔑</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ODJLSlhTd0xpOEVhTnlSeUlIbHRoQ3FqNXM2cGFhZ2UwdkRxZUNnV3VLdz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>87.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=gptbot.me" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=STBFVHZRK0NtRHJheEkwR093V09IVFdZMGpxeWEvQUo1bnE0V3FndlVHOD0=" target="_blank"> Gptbot.me </a> </td>
+    <td>🛫🔑 </td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=STBFVHZRK0NtRHJheEkwR093V09IVFdZMGpxeWEvQUo1bnE0V3FndlVHOD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>88.</td>
+    <td><img src="https://st.ai55.cc/favicon/tubogpt.vercel.app.webp" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TjBXNk44Q3pvMkhsa3RGbG9VVkxZZTVtL3FMbENiQTBmQW9vaDY2QTFPVT0=" target="_blank"> Tubogpt.vercel.app </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TjBXNk44Q3pvMkhsa3RGbG9VVkxZZTVtL3FMbENiQTBmQW9vaDY2QTFPVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>89.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Mi83N2tHY3paM3FhWnpYcm9TQ0VEVXpkV1E1SHRvTEExYzd0M0hVY044TT0=" target="_blank"> Huashuyunai.com </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Mi83N2tHY3paM3FhWnpYcm9TQ0VEVXpkV1E1SHRvTEExYzd0M0hVY044TT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>90.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=askopenai.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=cjZ2a0RzVWRDSDY0c1VkakJvSnRqVFhYNm1yV1VuMEZDV0dYQlB3ZDdUMD0=" target="_blank"> Askopenai.cn </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=cjZ2a0RzVWRDSDY0c1VkakJvSnRqVFhYNm1yV1VuMEZDV0dYQlB3ZDdUMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>91.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UVF1SVdMMElkTnlrRDR3U0VQdVowTlBPM1FZc2NQUllmT01GRDUxWWZ4ST0=" target="_blank"> Hehanwang.com </a> </td>
+    <td>🛫🔑</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UVF1SVdMMElkTnlrRDR3U0VQdVowTlBPM1FZc2NQUllmT01GRDUxWWZ4ST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>92.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Wll2cTkrQXQzWk1uUWU1cE1Eek5hZHhGNzc5cmFxcFdhWlJCSWpNbVFjQT0=" target="_blank"> Jiehan.tech </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Wll2cTkrQXQzWk1uUWU1cE1Eek5hZHhGNzc5cmFxcFdhWlJCSWpNbVFjQT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>93.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WitiUlV5QkN1MHh0UUJHazRZTG8yMEVIMHRvTWI1bDdsRTB4aUQzR000ND0=" target="_blank"> Officechat.top </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WitiUlV5QkN1MHh0UUJHazRZTG8yMEVIMHRvTWI1bDdsRTB4aUQzR000ND0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>94.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=dG1sM01lS2VhN0N6T1FKQ2lERENsM0tIQ0lrZkFpcjQ0UmFLUTRVL1V5QT0=" target="_blank"> Tomda.xyz </a> </td>
+    <td>🛫🔑</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=dG1sM01lS2VhN0N6T1FKQ2lERENsM0tIQ0lrZkFpcjQ0UmFLUTRVL1V5QT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>95.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ai.captnemo.xyz" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=YXdEaVJJSEdEVzNsWHcwTFJsYWNBdW9DUEJ6Z1FZVU9CNGtoWG1OUVFOQT0=" target="_blank"> Captnemo.xyz </a> </td>
+    <td>🛫🔑</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=YXdEaVJJSEdEVzNsWHcwTFJsYWNBdW9DUEJ6Z1FZVU9CNGtoWG1OUVFOQT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>96.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UkQwV2dITmtjNkllSXhpWXpqS1R0QWxHSm02TXJiaXFXOGxKdmRSeEoxRT0=" target="_blank"> 14.128.37.61 </a> </td>
+    <td>🛫🔑</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UkQwV2dITmtjNkllSXhpWXpqS1R0QWxHSm02TXJiaXFXOGxKdmRSeEoxRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>97.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Y1ZDaVdyRDE3VmpQUHdrSDJOZ3U3bVJPYlRLY0ptcE5tdEI2UFV6Y0RIMD0=" target="_blank"> Darricks.net </a> </td>
+    <td>🛫🔑</td>
+    <td>密码：j-2004</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Y1ZDaVdyRDE3VmpQUHdrSDJOZ3U3bVJPYlRLY0ptcE5tdEI2UFV6Y0RIMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>98.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ZTlYMkJCdmlONFM4bGhoRGh4a3plaGFYME5vNnR6Y1JkZjYzTGVwOVk4RT0=" target="_blank"> Zhiyoustar.com </a> </td>
+    <td>🛫🔑</td>
+    <td>微信扫码登陆</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ZTlYMkJCdmlONFM4bGhoRGh4a3plaGFYME5vNnR6Y1JkZjYzTGVwOVk4RT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>99.</td>
+    <td><img src="https://st.ai55.cc/favicon/default-chatgpt-favicon.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=N0xNS2sxTzZkekFPQm8zSXUxeDA3eVZoY1A4L3NwWFNLMXRoUWZUczEzMD0=" target="_blank"> Gpt6.fun </a> </td>
+    <td>🛫🔑</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=N0xNS2sxTzZkekFPQm8zSXUxeDA3eVZoY1A4L3NwWFNLMXRoUWZUczEzMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>100.</td>
+    <td><img src="https://st.ai55.cc/favicon/mst.ai.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ck4xVmNta2J1YnN3TzJkeVdEbngxTU1XRnhrNVJsZ0tOSk93MDVvQWlvND0=" target="_blank"> Mst.ai </a> </td>
+    <td>🛫🔑</td>
+    <td> </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ck4xVmNta2J1YnN3TzJkeVdEbngxTU1XRnhrNVJsZ0tOSk93MDVvQWlvND0=" target="_blank">🔗 </a> </td> 
+  </tr>
 
 </table>
 
-[👆回到目录👆](#目录)
-	
-<h4>视频化文字</h4>
+
+### 问答
+
+
+
 <table>
-    <tr>
-        <td><a href="https://lumen5.com/blog-to-video">lumen5</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>一个AI视频自动设计平台</li>
-                <li>支持将您的博客等文字性的文章以视频形式转换</li>
-                <li>简单易用的UI界面, 可在几分钟内创建高质量视频</li>
-                <li>支持使用拖动形式制作, 添加自己的图片、视频剪辑、音乐和文本字幕等内容</li>
-                <li>提供多种不同风格、布局和主题的模板，可自定义颜色、字体和品牌元素</li>
-            	<li>支持导出视频文件或分享到社交媒体平台</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-         <td>
-              <a href="https://www.synthesia.io/">synthesia</a>
-         </td>
-         <td>
-             <ul style="list-style-type: disc;">
-                  <li>一个只要你提供文字，就能生成视频的网站</li>
-                  <li>不需要复杂的操作，它能直接发送到您你的邮箱</li>
-                  <li>支持多语言合成，包括英语、西班牙语、法语、德语、意大利语等</li>
-	              <li>可以选择不同的角色、场景和动作，让生成的视频更加生动有趣</li>
-                  <li>提供AI语音合成技术，使得生成的语音更加自然流畅</li>
-                  <li>支持高清晰度视频导出和与Zoom、Youtube、Vimeo等平台的集成</li>
-             </ul>
-         </td> 
-    </tr>
+
+  <tr>
+    <td>1.</td>
+    <td><img src="https://st.ai55.cc/favicon/zhimachat.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RWVsbjJzSjJPZVRIZnBHSDZGREpMQXhhcGRRTk5JeFhuMmdNQ3BTak9aST0=" target="_blank"> Zhimachat.com </a> </td>
+    <td></td>
+    <td>海豚问答</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RWVsbjJzSjJPZVRIZnBHSDZGREpMQXhhcGRRTk5JeFhuMmdNQ3BTak9aST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td><img src="https://st.ai55.cc/favicon/agentgpt.reworkd.ai.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=OUVsRzZxVCtQYy9kbmlxVVVNQVVNeWdDL25qTlBZV1VnUk4rUnMrdnFFTT0=" target="_blank"> Reworkd.ai </a> </td>
+    <td></td>
+    <td>Auto GPT </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=OUVsRzZxVCtQYy9kbmlxVVVNQVVNeWdDL25qTlBZV1VnUk4rUnMrdnFFTT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
 </table>
 
 
-[👆回到目录👆](#目录)
+### 办公
 
 
-<h4>其他</h4>
+
 <table>
-    <tr>
-        <td>
-                <a href="https://hotoke.ai/">佛前AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>能够倾听用户说出的苦恼，进行情感分析，并提供安慰和建议。</li>
-                <li>支持多种语言，包括中文、日语等。</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://mottle.com/">Mottle</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供自然语言处理技术，帮助用户轻松构建自己的GPT模型。</li>
-                <li>支持多种语言，包括Python、JavaScript等。</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://rationale.jinaai.cn/">Rationale</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>基于最先进的自然语言推理技术，可以分析文本并自动找出最优解。</li>
-                <li>适用于各种场景，包括问答系统、智能客服、搜索引擎等。</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://artifact.news/">Artifact</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>提供个性化的新闻推送服务，根据用户的兴趣和偏好推荐内容。</li>
-                <li>采用机器学习算法和自然语言处理技术，可以理解用户的阅读习惯，并进行智能分析和推荐。</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://promptdb.ai/">PromptDB</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-				<li>提供高质量的AI提示词数据库，包含多个领域的提示词。</li>
-                <li>可用于各种自然语言处理任务，如文本生成、机器翻译等。</li>
-                <li>支持通过API或Web界面使用。</li>
-            </ul>
-        </td> 
-    </tr>
-     <tr>
-        <td><a href="https://www.futurepedia.io/">FUTUREPEDIA</a></td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>整合了大量科技与未来相关的网站和资源链接，方便用户快速浏览和获取信息。</li>
-                <li>支持自定义添加和编辑，用户可根据需要添加自己喜欢的网站和资源。</li>
-                <li>支持分享功能，用户可将自己的收藏夹与其他人共享。</li>
-            </ul>
-        </td>
-    </tr>
+
+  <tr>
+    <td>1.</td>
+    <td><img src="https://st.ai55.cc/favicon/chatdoc.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QzR6UE1XaWp5OGU5YUs2bm1TekY1OGpCelM4TFVNQW9TQmFyOVhTWkk3Yz0=" target="_blank"> Chatdoc.com </a> </td>
+    <td>🔑</td>
+    <td>[Chat Docs] ChatGPT读取文档，阅读文档好帮手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QzR6UE1XaWp5OGU5YUs2bm1TekY1OGpCelM4TFVNQW9TQmFyOVhTWkk3Yz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=easyai.fun" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=d2k3cm5CNS9BaElQRlNrMTlQUlBmMjhIZTVJZTdhcnNLNnRKTmw1NitoMD0=" target="_blank"> Easyai.fun </a> </td>
+    <td></td>
+    <td>多功能AI小助手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=d2k3cm5CNS9BaElQRlNrMTlQUlBmMjhIZTVJZTdhcnNLNnRKTmw1NitoMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=writesonic.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aWhWMUhTWlRXRWVPd1Q4WlVqNmlTYXdZWjdQbXY1MTM1WFV4T3NheTdXWT0=" target="_blank"> Writesonic.com </a> </td>
+    <td></td>
+    <td>AI 创作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aWhWMUhTWlRXRWVPd1Q4WlVqNmlTYXdZWjdQbXY1MTM1WFV4T3NheTdXWT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>4.</td>
+    <td><img src="https://st.ai55.cc/favicon/heyfriday.cn.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=THJaMEt2aFp6V2d4YjRYaXhnZnBFNEVpODh5WXNkaUpwbnJ1eWc0RnFYZz0=" target="_blank"> Heyfriday.cn </a> </td>
+    <td> </td>
+    <td>智能写作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=THJaMEt2aFp6V2d4YjRYaXhnZnBFNEVpODh5WXNkaUpwbnJ1eWc0RnFYZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>5.</td>
+    <td><img src="https://st.ai55.cc/favicon/dyrt.me.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=V3VveE5Lc2VLM2QxVjNDMW02UDcraFNSaTloSTJBMmp4Nm1MUTFZdWZ2ST0=" target="_blank"> Dyrt.me </a> </td>
+    <td></td>
+    <td>AI 写作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=V3VveE5Lc2VLM2QxVjNDMW02UDcraFNSaTloSTJBMmp4Nm1MUTFZdWZ2ST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>6.</td>
+    <td><img src="https://uranus-static.oss-accelerate.aliyuncs.com/xiezuocat/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=dFVxZEJzbXgwVDlvQS83UWdJUVFEK0k3M3h2eCs3bG9qNG9YSFpaUGt3Zz0=" target="_blank"> Xiezuocat.com </a> </td>
+    <td> </td>
+    <td>密塔写作猫</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=dFVxZEJzbXgwVDlvQS83UWdJUVFEK0k3M3h2eCs3bG9qNG9YSFpaUGt3Zz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>7.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=motion.yoo-ai.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RlY2Q3hSV2RhYktqNG1lZGJFVUx2bDdieWFzWWtncExiaHBUc1k2OGhVMD0=" target="_blank"> Yoo-ai.com </a> </td>
+    <td> </td>
+    <td>ChatPPT</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RlY2Q3hSV2RhYktqNG1lZGJFVUx2bDdieWFzWWtncExiaHBUc1k2OGhVMD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>8.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=wenzhang.zhuluan.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ZnVlcHY5d3J6RTNXSW8wL0dZRHVwbmR2QWVpWWFnMnk2T2pXdkZlcXdUVT0=" target="_blank"> Zhuluan.com </a> </td>
+    <td> </td>
+    <td>AI文章生成器</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ZnVlcHY5d3J6RTNXSW8wL0dZRHVwbmR2QWVpWWFnMnk2T2pXdkZlcXdUVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>9.</td>
+    <td><img src="https://st.ai55.cc/favicon/chatexcel.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TC9TZHovYm1rNEVPbXRiMlQ1SDJaczFrN2NLeWpZYW41V3p0UVljQ1B6UT0=" target="_blank"> Chatexcel.com </a> </td>
+    <td></td>
+    <td>AI 表格助手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TC9TZHovYm1rNEVPbXRiMlQ1SDJaczFrN2NLeWpZYW41V3p0UVljQ1B6UT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>10.</td>
+    <td><img src="https://st.ai55.cc/favicon/codefuture.top.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Qko0ZEJvWmhiLzlmRVpTZFlMeFBHbVBnRE5RK2xWbkdqZ2V1UFVwZFlUNDZPZHVFYjY4ZHRaVU8rTnpKNTRSYg==" target="_blank"> Codefuture.top </a> </td>
+    <td></td>
+    <td>AI帮个忙</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Qko0ZEJvWmhiLzlmRVpTZFlMeFBHbVBnRE5RK2xWbkdqZ2V1UFVwZFlUNDZPZHVFYjY4ZHRaVU8rTnpKNTRSYg==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>11.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=notion.so" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MTd4ZXc2b3RhMGNhcThpTWFNNStDNjhLRjYwa240TDY5a2VxRDV5NjFFUENueFpUMG9VRXRxTUVaYUYzRCt6Rw==" target="_blank"> Notion.so </a> </td>
+    <td></td>
+    <td>AI 写作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MTd4ZXc2b3RhMGNhcThpTWFNNStDNjhLRjYwa240TDY5a2VxRDV5NjFFUENueFpUMG9VRXRxTUVaYUYzRCt6Rw==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>12.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=jasper.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MXRKV3J4eVFGOGlwKy9SeDVHcytyUzdrUWJmUG03RzVlTm9OMm5XcFVkaz0=" target="_blank"> Jasper.ai </a> </td>
+    <td></td>
+    <td>AI 创作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MXRKV3J4eVFGOGlwKy9SeDVHcytyUzdrUWJmUG03RzVlTm9OMm5XcFVkaz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>13.</td>
+    <td><img src="https://st.ai55.cc/favicon/ssw9noe1h6.feishu.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=bStKZU82MkVWVEluTUp4bFYwS2I5cUNqaUtNT0xTa0JGY3lEWkpISWo1NndNQ1UxU1FKRkxGQWpVTU9hKzYxbnhDYmtBL05hY2FPZVkybGpaQlg5QVE9PQ==" target="_blank"> Feishu.cn </a> </td>
+    <td></td>
+    <td>AI 知识库</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=bStKZU82MkVWVEluTUp4bFYwS2I5cUNqaUtNT0xTa0JGY3lEWkpISWo1NndNQ1UxU1FKRkxGQWpVTU9hKzYxbnhDYmtBL05hY2FPZVkybGpaQlg5QVE9PQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>14.</td>
+    <td><img src="https://st.ai55.cc/favicon/deepl.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtSGUzMUNMeWtIWXc1dFlQUEJDTEVWYz0=" target="_blank"> Deepl.com </a> </td>
+    <td> </td>
+    <td>DeepL写作</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=a2hMSFRrS2p4U29mSFl0QWFiMlZtSGUzMUNMeWtIWXc1dFlQUEJDTEVWYz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>15.</td>
+    <td><img src="https://st.ai55.cc/favicon/yiyan.baidu.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aHU1Q2J4c01hVFQ4SUhHTm92YTYvK2lhM2hrM2QrVXBTODFNZ3h2TGd6ND0=" target="_blank"> Baidu.com </a> </td>
+    <td></td>
+    <td>BaiDu 文心一言</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aHU1Q2J4c01hVFQ4SUhHTm92YTYvK2lhM2hrM2QrVXBTODFNZ3h2TGd6ND0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>16.</td>
+    <td><img src="https://st.ai55.cc/favicon/cluebenchmarks.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MkZJeDRnc2tnaXRTWlI5eElVSHlTOUhkbzVtR1phdGZmRnUvdXdyYnVoREdCTkwzcTYyN3FUQ2hqVVZqVHRoZA==" target="_blank"> Cluebenchmarks.com </a> </td>
+    <td></td>
+    <td>ClueAI</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MkZJeDRnc2tnaXRTWlI5eElVSHlTOUhkbzVtR1phdGZmRnUvdXdyYnVoREdCTkwzcTYyN3FUQ2hqVVZqVHRoZA==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>17.</td>
+    <td><img src="https://st.ai55.cc/favicon/jimmylv.cn.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=YThXcjQweXdQYkExRjFaQ3ArTjV0TTFzN256UTdCeXZYWWhTMUlIdzlERT0=" target="_blank"> Jimmylv.cn </a> </td>
+    <td></td>
+    <td>AI B站总结</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=YThXcjQweXdQYkExRjFaQ3ArTjV0TTFzN256UTdCeXZYWWhTMUlIdzlERT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>18.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=ai.free-tools.cn" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=eFNydHI1bGJVTnJndE80VEF3aDJJeGg2N3VNU0JhVFVJYXpkbFVzcjhacz0=" target="_blank"> Free-tools.cn </a> </td>
+    <td> </td>
+    <td>AI 工具箱</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=eFNydHI1bGJVTnJndE80VEF3aDJJeGg2N3VNU0JhVFVJYXpkbFVzcjhacz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>19.</td>
+    <td><img src="https://raw.githubusercontent.com/onepointAI/onepoint/main/assets/icon/icon64.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TTB0Njd3alQwUTArcUF6VjZUZFRzYU4yTDJDZWNrb1hKVlFwd0ttU1pERT0=" target="_blank"> 1ptai.com </a> </td>
+    <td>😄</td>
+    <td>onepoint</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TTB0Njd3alQwUTArcUF6VjZUZFRzYU4yTDJDZWNrb1hKVlFwd0ttU1pERT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>20.</td>
+    <td><img src="https://st.ai55.cc/favicon/aicolors.co.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=REtHazJTVTg0aVZhY2NiVGg3Nlp6SXdMN2pTSjQ1OUYxME9kdVFvWEJBWT0=" target="_blank"> Aicolors.co </a> </td>
+    <td>🛫 </td>
+    <td>AI Colors</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=REtHazJTVTg0aVZhY2NiVGg3Nlp6SXdMN2pTSjQ1OUYxME9kdVFvWEJBWT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>21.</td>
+    <td><img src="https://st.ai55.cc/favicon/zhoubaotong.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=UzIwMVVWa1pYSWxoZ1d0K2E2WFgrUHE5dVZrbEtWMVlyd2R1WUc4a1k1Zz0=" target="_blank"> Zhoubaotong.com </a> </td>
+    <td>🛫</td>
+    <td>周报通</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=UzIwMVVWa1pYSWxoZ1d0K2E2WFgrUHE5dVZrbEtWMVlyd2R1WUc4a1k1Zz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>22.</td>
+    <td><img src="https://st.ai55.cc/favicon/typeset.io.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WWxmcWRlRDVZeXJjZlpaTGZIeE1CSlcwbDFiaTQwOGQ3ckJKWDFGTmJHOD0=" target="_blank"> Typeset.io </a> </td>
+    <td>🛫</td>
+    <td>AI文秘助手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WWxmcWRlRDVZeXJjZlpaTGZIeE1CSlcwbDFiaTQwOGQ3ckJKWDFGTmJHOD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
 </table>
+
+
+### 编程
+
+
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><img src="https://st.ai55.cc/favicon/arc53.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=OEFqU3ZhcEhkTXQ4QXMvM0V2SUM2WHpiRjl3cnhsWXV0aktDb2V5VFNvZz0=" target="_blank"> Arc53.com </a> </td>
+    <td>🛫</td>
+    <td>技术文档助手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=OEFqU3ZhcEhkTXQ4QXMvM0V2SUM2WHpiRjl3cnhsWXV0aktDb2V5VFNvZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td><img src="https://st.ai55.cc/favicon/sqlkiller.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QURsUTkyMjhVbHJYaGJIK0dISWlTck83WmJrRE5LN3VVQlFKQmdGMGNqWT0=" target="_blank"> Sqlkiller.com </a> </td>
+    <td> </td>
+    <td>AI快速生成SQL</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QURsUTkyMjhVbHJYaGJIK0dISWlTck83WmJrRE5LN3VVQlFKQmdGMGNqWT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td><img src="https://st.ai55.cc/favicon/cursor.so.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aFE2YWpkTTg2ZkNGSHlYYXo0d2xnbVYrRVhtK0xycDVLcDRWRVIyQTBHST0=" target="_blank"> Cursor.so </a> </td>
+    <td> </td>
+    <td>AI代码生成</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aFE2YWpkTTg2ZkNGSHlYYXo0d2xnbVYrRVhtK0xycDVLcDRWRVIyQTBHST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>4.</td>
+    <td><img src="https://st.ai55.cc/favicon/promptperfect.jinaai.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Slp5RFgwRUdtOTFwR2Q4TXlodHp3UCt6SzVNd2UwM3ZIQUxuR3k4UDBnWFNLcFYwK3FzazV6dGNzMW5mQlV3Vw==" target="_blank"> Jinaai.cn </a> </td>
+    <td> </td>
+    <td>提示词优化</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Slp5RFgwRUdtOTFwR2Q4TXlodHp3UCt6SzVNd2UwM3ZIQUxuR3k4UDBnWFNLcFYwK3FzazV6dGNzMW5mQlV3Vw==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>5.</td>
+    <td><img src="https://st.ai55.cc/favicon/regex.ai.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RnlpbjlHMmU4ZlpWNWxzaUZmVTIxZDcxYTI3ZnIxdUkxTWc4c3oxcmtoQT0=" target="_blank"> Regex.ai </a> </td>
+    <td> </td>
+    <td>AI正则表达式</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RnlpbjlHMmU4ZlpWNWxzaUZmVTIxZDcxYTI3ZnIxdUkxTWc4c3oxcmtoQT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>6.</td>
+    <td><img src="https://st.ai55.cc/favicon/github.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=aTBzbUdndXdIeit4RjV6M212NDRzYk9XWWlQbzhqdW8wV1p3R1Bmc2t5RHo1OFdrd0s4ZFFTWkl6YlBrOTFKTQ==" target="_blank"> Github.com </a> </td>
+    <td> </td>
+    <td>GitHubCopilot</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=aTBzbUdndXdIeit4RjV6M212NDRzYk9XWWlQbzhqdW8wV1p3R1Bmc2t5RHo1OFdrd0s4ZFFTWkl6YlBrOTFKTQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>7.</td>
+    <td><img src="https://st.ai55.cc/favicon/aixcoder.com.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=SkNPM2dpZ29OWFlLZlhqWGpBbWoxaGhxOE5RdVlLZkUwZS85V3paTVJ2VT0=" target="_blank"> Aixcoder.com </a> </td>
+    <td> </td>
+    <td>aiXcoder</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=SkNPM2dpZ29OWFlLZlhqWGpBbWoxaGhxOE5RdVlLZkUwZS85V3paTVJ2VT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>8.</td>
+    <td><img src="https://st.ai55.cc/favicon/models.aminer.cn.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=SklkTjhVOThEUk5SNzVWdGMyVThFN3lGcXZoaEtidXZKR1czeENqbmk4OD0=" target="_blank"> Aminer.cn </a> </td>
+    <td> </td>
+    <td>CodeGeeX</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=SklkTjhVOThEUk5SNzVWdGMyVThFN3lGcXZoaEtidXZKR1czeENqbmk4OD0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>9.</td>
+    <td><img src="https://st.ai55.cc/favicon/allaitools.cn.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=REZCVTY1VFNKemJFYWtCS2pleVAvNE5LaE54R1NHR1dHWGVieGRvWFhKVT0=" target="_blank"> Allaitools.cn </a> </td>
+    <td></td>
+    <td>中文Prompt工坊</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=REZCVTY1VFNKemJFYWtCS2pleVAvNE5LaE54R1NHR1dHWGVieGRvWFhKVT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>10.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aihelperbot.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TmVjKzVyWEU2WCtPTU53Tk9JMlE3UHZQUnJJUWdaaGliTlhxdEdsYTR2TT0=" target="_blank"> Aihelperbot.com </a> </td>
+    <td></td>
+    <td>AI Build SQL</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TmVjKzVyWEU2WCtPTU53Tk9JMlE3UHZQUnJJUWdaaGliTlhxdEdsYTR2TT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>11.</td>
+    <td><img src="https://st.ai55.cc/favicon/bito.ai.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=MG0xQzdPbXEyVWxud1dKUERzQWxvM0k2ZURJNGJSN1RmYW9uZ0c0c1o1Zz0=" target="_blank"> Bito.ai </a> </td>
+    <td></td>
+    <td>AI编程辅助工具</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=MG0xQzdPbXEyVWxud1dKUERzQWxvM0k2ZURJNGJSN1RmYW9uZ0c0c1o1Zz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>12.</td>
+    <td><img src="https://st.ai55.cc/favicon/tabnine.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=enorbW95QnFJSE5HMVpYRXlmTGFjd1pCS0NjVklabGE3TDdhdTJGYU1RZz0=" target="_blank"> Tabnine.com </a> </td>
+    <td></td>
+    <td>开发助手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=enorbW95QnFJSE5HMVpYRXlmTGFjd1pCS0NjVklabGE3TDdhdTJGYU1RZz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>13.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=kodezi.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=WEpOenpOUmhlRjlnd3Y5OVcxbFN4N1Zia1E5YWEyeXorb085S3R3cm1PST0=" target="_blank"> Kodezi.com </a> </td>
+    <td></td>
+    <td>AI编程助手</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=WEpOenpOUmhlRjlnd3Y5OVcxbFN4N1Zia1E5YWEyeXorb085S3R3cm1PST0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>14.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=anthropic.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=VmRRdmRVbDVSQU0yUXBsaFpLSHV2dWNQOVVGWXQ2ZFBoanBSMEwxNXV1clV5bFV0VTUyUDdYNWF1UTdVd2lCTFo1ZkZYV1FxZDNHNURoRWUxVlhpa2c9PQ==" target="_blank"> Anthropic.com </a> </td>
+    <td></td>
+    <td>Slack  AI 助手插件</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=VmRRdmRVbDVSQU0yUXBsaFpLSHV2dWNQOVVGWXQ2ZFBoanBSMEwxNXV1clV5bFV0VTUyUDdYNWF1UTdVd2lCTFo1ZkZYV1FxZDNHNURoRWUxVlhpa2c9PQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>15.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=developer.aliyun.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=a0daVzhueDBJU3JHUmU4anNjWWl4bmlieE5FclNGSFF5b29ZTXRkZG5yeHorcGJlbnNHaGtqSzU0OFpuVW1yeg==" target="_blank"> Aliyun.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=a0daVzhueDBJU3JHUmU4anNjWWl4bmlieE5FclNGSFF5b29ZTXRkZG5yeHorcGJlbnNHaGtqSzU0OFpuVW1yeg==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>16.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=aws.amazon.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=S1lFS1Q5VUQ0UGY4OS9uYWpFRnk4TExGSFRoK1RNL0xFZ3JWbFQ3Qk5RT3hLcFNSY2JRaHZOSDYwZ3dkdXBGeg==" target="_blank"> Amazon.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=S1lFS1Q5VUQ0UGY4OS9uYWpFRnk4TExGSFRoK1RNL0xFZ3JWbFQ3Qk5RT3hLcFNSY2JRaHZOSDYwZ3dkdXBGeg==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>17.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=replit.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=TUZYaXZ0UDVaTkhLS2VDeTd6b2Erb0RhM1ZwNlJOTHhQWDFHR1hUR2M1aEVtMXBLc3Z4TzNteGVEQ21UZWIyMg==" target="_blank"> Replit.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=TUZYaXZ0UDVaTkhLS2VDeTd6b2Erb0RhM1ZwNlJOTHhQWDFHR1hUR2M1aEVtMXBLc3Z4TzNteGVEQ21UZWIyMg==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>18.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=codeium.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=dVJBQ2hvak1nanI4WlY2c1d3elRINVFPbTRZQWtLZXJjUUtGdzRQRTNvRT0=" target="_blank"> Codeium.com </a> </td>
+    <td>😄</td>
+    <td></td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=dVJBQ2hvak1nanI4WlY2c1d3elRINVFPbTRZQWtLZXJjUUtGdzRQRTNvRT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>19.</td>
+    <td><img src="https://wangwl.net/favicon.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=c1NoUnh3UjJBVUdNVGVyS0c1K0pKNHk3OWN5ZGx5WXRRNlVWek91Sy85d3FocWlkQWg5YUtTR0t6VWRUL0UwWA==" target="_blank"> Wangwl.net </a> </td>
+    <td>😄</td>
+    <td> AI正则表达式</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=c1NoUnh3UjJBVUdNVGVyS0c1K0pKNHk3OWN5ZGx5WXRRNlVWek91Sy85d3FocWlkQWg5YUtTR0t6VWRUL0UwWA==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+</table>
+
+
+### 生活
+
+
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><img src="https://st.ai55.cc/favicon/chilloutai.com.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=U2swOWs3OTZaNjhVVGtDZVFKODZlajI4eWgrNHEyVXB3R1I5ZDlZaHQ2VT0=" target="_blank"> Chilloutai.com </a> </td>
+    <td>🛫</td>
+    <td>虚拟女友</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=U2swOWs3OTZaNjhVVGtDZVFKODZlajI4eWgrNHEyVXB3R1I5ZDlZaHQ2VT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td><img src="https://st.ai55.cc/favicon/openai-lab.com.svg" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=QWg5Z01LRC84aTBMWldXeHY2S2RHUmpUbURiQTJaTHFrcjRVWlRVallQajNBY29pb3JkMTZLTExvYk1iVm1FUQ==" target="_blank"> Openai-lab.com </a> </td>
+    <td></td>
+    <td>文字游戏</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=QWg5Z01LRC84aTBMWldXeHY2S2RHUmpUbURiQTJaTHFrcjRVWlRVallQajNBY29pb3JkMTZLTExvYk1iVm1FUQ==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td><img src="https://st.ai55.cc/favicon/streamlit.app.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=VUltQzZ3c2pRV3RzN0NWaXdKUTFseGp5RUUxYStvdTdSaWFsQjFiQUcvNHI0K1dQejRGYTIwbU9TdmpWNFVQRA==" target="_blank"> Streamlit.app </a> </td>
+    <td>🛫</td>
+    <td>单词故事</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=VUltQzZ3c2pRV3RzN0NWaXdKUTFseGp5RUUxYStvdTdSaWFsQjFiQUcvNHI0K1dQejRGYTIwbU9TdmpWNFVQRA==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>4.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=hotoke.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=YnlRT2R6bXlVaWY3MlJSbjdrZXR3ZEk5QWhNL0I2aHpnNVVFZDZBcXRIUT0=" target="_blank"> Hotoke.ai </a> </td>
+    <td>🛫</td>
+    <td>AI 如来(佛)</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=YnlRT2R6bXlVaWY3MlJSbjdrZXR3ZEk5QWhNL0I2aHpnNVVFZDZBcXRIUT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+</table>
+
+
+### ChatGPT 应用
+
+
+
+<table>
+
+  <tr>
+    <td>1.</td>
+    <td><img src="https://st.ai55.cc/favicon/chatplus.app.ico" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=RFJEb0dMbW8wMU02VTN3cnNMZmNPdmF1VlVFU2xZV01aUm1sRy9oSlk3QT0=" target="_blank"> Chatplus.buzz </a> </td>
+    <td></td>
+    <td>Chat客户端</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=RFJEb0dMbW8wMU02VTN3cnNMZmNPdmF1VlVFU2xZV01aUm1sRy9oSlk3QT0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>2.</td>
+    <td><img src="https://st.ai55.cc/favicon/open-gpt.app.png" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=Wmtza3lERmNzMDcrT0ZJdXhyMzRaYmRJN285SzFFRlpGQlpsb3ZPTVVmYz0=" target="_blank"> Open-gpt.app </a> </td>
+    <td>🛫</td>
+    <td>ChatGPT 应用</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=Wmtza3lERmNzMDcrT0ZJdXhyMzRaYmRJN285SzFFRlpGQlpsb3ZPTVVmYz0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>3.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=apps.apple.com" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=ME1SeW9aSHVuK2t2ZjhidFNhazNZaFJHaWNjYUFGcFMwcVBFR2RtdnRod1JLTHRBUUdIY2xjbzFaU2M0cXVTNA==" target="_blank"> Apple.com </a> </td>
+    <td></td>
+    <td>ChatGPT APP / ChatGo</td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=ME1SeW9aSHVuK2t2ZjhidFNhazNZaFJHaWNjYUFGcFMwcVBFR2RtdnRod1JLTHRBUUdIY2xjbzFaU2M0cXVTNA==" target="_blank">🔗 </a> </td> 
+  </tr>
+
+  <tr>
+    <td>4.</td>
+    <td><img src="https://favicon.zhusl.com/ico?url=toolbuilder.ai" alt="favicon" style="height: 20px !important;width: 20px !important;" ></td>
+    <td><a href="https://day0424.ai55.cc/url/?id=T0hFQ0ZBc1BpYk1lZHpMTUZEdEpUYWkwSzA1RFBFbWhGMHI3aTBuOGV1az0=" target="_blank"> Toolbuilder.ai </a> </td>
+    <td>🔑</td>
+    <td>自定义 AI </td> 
+    <td><a href="https://day0424.ai55.cc/url/?id=T0hFQ0ZBc1BpYk1lZHpMTUZEdEpUYWkwSzA1RFBFbWhGMHI3aTBuOGV1az0=" target="_blank">🔗 </a> </td> 
+  </tr>
+
+</table>
+
+
+### 失效站点
+
+<details>
+  <summary>失效站点</summary>
+
+
+1. http://newb.site/chatgpt <br/>
+
+2. https://www.ftcl.store/ <br/>
+
+3. https://openai.onenov.cn/ <br/>
+
+4. http://ai.usesless.com/ <br/>
+
+5. https://gpt.intercat.cn/ <br/>
+
+6. https://wen.geekr.dev <br/>
+
+7. https://chater.lanyun1103.top <br/>
+
+8. https://chat.yougan.cc/ <br/>
+
+9. https://chat1.wuguokai.top/s/chatgpt <br/>
+
+10. https://chat.forchange.cn/ <br/>
+
+11. http://gitopenchina.gitee.io/gpt <br/>
+
+12. http://chatai.fyi/ <br/>
+
+13. http://chat.apigpt.cn/ <br/>
+
+14. http://chat.livepo.top/ <br/>
+
+15. https://chat.eaten.fun/ <br/>
+
+16. https://chat.wxredcover.cn/ <br/>
+
+17. https://chatmindai.com/ <br/>
+
+18. https://chat.zecoba.cn/ <br/>
+
+19. https://chatmate.network/ <br/>
+
+20. https://freegpt.one/ <br/>
+
+21. https://freechatgpt.lol/ <br/>
+
+22. https://fastgpt.app/ <br/>
+
+23. https://chat.jingran.vip/ <br/>
+
+24. http://itecheasy.com.cn/ <br/>
+
+25. https://chatgpt.ddiu.io/ <br/>
+
+26. https://chat.aigc-model.com/ <br/>
+
+27. https://chatgpt.poshist.cn/ <br/>
+
+28. https://www.chatsverse.xyz/ <br/>
+
+29. https://ai.v2less.com/ <br/>
+
+30. https://chatgpt.h7ml.cn/ <br/>
+
+31. https://chat.tgbot.co/ <br/>
+
+32. https://chat.ninvfeng.xyz/ <br/>
+
+33. https://talk.xiu.ee/ <br/>
+
+34. https://chat.sheepig.top/ <br/>
+
+35. https://chatgpt.ddiu.me/ <br/>
+
+36. https://chatgpt.lcc8.com/ <br/>
+
+37. https://chat.uue.me/ <br/>
+
+38. http://gpt.mxnf.store/ <br/>
+
+39. https://chat.moyunav.com/ <br/>
+
+40. https://desk.im/ <br/>
+
+41. https://askgptai.com/ <br/>
+
+42. https://www.aitoolgpt.com/ <br/>
+
+43. https://chatapi.qload.cn/ <br/>
+
+44. https://chat-gpt.nikong.cn/ <br/>
+
+45. https://www.cveoy.com/ <br/>
+
+46. https://freegpt.cc <br/>
+
+47. https://c.mydog.buzz <br/>
+
+48. https://www.abab123.tk/ <br/>
+
+49. https://www.aicodehelper.com/ <br/>
+
+50. https://vrtalk.io/ <br/>
+
+51. https://ai.ci <br/>
+
+52. https://www.aiai.zone/ <br/>
+
+53. http://43.156.110.219:3002/  <br/>
+
+54. http://ai.jjzn.top/ <br/>
+
+55. https://chat.topsearcher.top/ <br/>
+
+56. https://bot.d8.pw <br/>
+
+57. https://www.askme.mom/ <br/>
+
+58. https://nb.askaiw.com/ <br/>
+
+59. https://greengpt.app/chat <br/>
+
+60. https://chatgpt35.theinspiredgroup.com/ <br/>
+
+61. https://gpt.chatxyz.online/ <br/>
+
+62. http://x-code.fun/ <br/>
+
+63. https://www.aitianhu.com/ <br/>
+
+64. https://chat.idcxsy.com/ <br/>
+
+65. https://www.gptnext.top/ <br/>
+
+66. https://bo.tychat.me/ <br/>
+
+67. https://chat.68686.ltd/ <br/>
+
+68. http://ai.moss560w.cn/ <br/>
+
+69. https://chat.ohtoai.com/ <br/>
+
+70. http://nhhg.xyz/ <br/>
+
+71. https://gpt.aieasy.one <br/>
+
+72. https://open-production.up.railway.app <br/>
+
+73. https://gpt.qingting.work/ <br/>
+
+74. https://chat.emmmm.dev/ <br/>
+
+75. https://chat.kosmos.pink/ <br/>
+
+76. https://freebr.cn/oxf/chat <br/>
+
+77. https://chat.hywwwlove.top/ <br/>
+
+78. http://easyai.one/chat <br/>
+
+79. https://gpt.anoyi.com/zh <br/>
+
+80. https://ai1.chagpt.fun/ <br/>
+
+81. https://chat.qingting.work <br/>
+
+82. http://chaosu.xyz/ <br/>
+
+83. http://aigc2.gptnb.xyz/ <br/>
+
+84. http://msai.fun/ <br/>
+
+85. https://smart-chat.xiami.one/ <br/>
+
+86. https://chat.aitianhu.top/ <br/>
+
+87. https://b.qachat.pro <br/>
+
+88. http://chat.fdkang.top/ <br/>
+
+89. https://www.fysh2022.top <br/>
+
+90. https://chat1.orcle.tech/ <br/>
+
+91. http://www.vppp.cn/ <br/>
+
+92. http://easyai.ink <br/>
+
+93. http://8.213.135.127/ <br/>
+
+94. https://gpt.ai8.icu/ <br/>
+
+95. https://new.ctgpt2.cn/ <br/>
+
+96. http://outchat.extkj.cn/ <br/>
+
+97. http://chat.chatai.baby/ <br/>
+
+98. https://chat.bigs.top/ <br/>
+
+99. http://www.aaang.cc/ <br/>
+
+100. http://omg.j5r4.us/ <br/>
+
+101. https://s320.cn/ <br/>
+
+102. https://sensundyaceleant.letsearches.com/ <br/>
+
+103. https://1chat.chat/ <br/>
+
+104. https://qa.6bbs.cn/ <br/>
+
+105. https://tvtm.cn/ <br/>
+
+106. http://1.15.134.164:999/ <br/>
+
 
 </details>
 
-[👆回到目录👆](#目录)
-
-<br><br>
-
-
-<details open="open">
-    <summary><h1>软件插件</h1></summary>
-
-<h4>VSCode插件</h4>
-<table>
-    <tr>
-        <td>
-            <a href="https://marketplace.visualstudio.com/items?itemName=WhenSunset.chatgpt-china">ChatGPT中文版</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>支持中文</li> 
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://marketplace.visualstudio.com/items?itemName=xiaohuoni.i-chatgpt">ChatGPT中文版 - 免翻墙</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>免翻墙</li> 
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://marketplace.visualstudio.com/items?itemName=zhukunpeng.chat-moss">ChatGPT-ChatMoss</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>有apiKey可无限使用</li> 
-            </ul>
-        </td> 
-    </tr>
-</table>
-
-<h4>浏览器插件</h4>
-<table>
-    <tr>
-        <td>
-                <a href="https://www.thomas.io/detect-gpt">Detect GPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>实时检查内容真实性</li>
-                <li>基于GPT模型的AI技术进行检测</li>
-                <li>支持多种语言，包括英语、法语、德语等</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://www.fluentify.io/">Fluentify</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>划字提问</li>
-                <li>快速提供问题解答，并生成知识图谱</li>
-                <li>支持跨领域问题解答</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chrome.google.com/webstore/detail/arxivgpt/fbbfpcjhnnklhmncjickdipdlhoddjoh?hl=en">ArxivGPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>总结论文并提供关键见解</li>
-                <li>基于GPT模型的AI技术进行自动化总结</li>
-                <li>提供关键词语解释和相关论文推荐</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://sharegpt.com/">ShareGPT</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>免费GPT模型使用</li>
-                <li>支持多种自然语言处理任务，如文本生成、翻译等</li>
-                <li>提供API接口，方便用户进行二次开发</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://harpa.ai/">HARPA AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>网页自动化</li>
-                <li>基于GPT模型的AI技术实现自动化流程</li>
-                <li>支持多种自然语言处理任务，如文本生成、问答、语音合成等</li>
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chatgptwriter.ai/">Gmail AI</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-                <li>谷歌邮箱生成邮件内容</li>
-                <li>基于GPT模型的AI技术实现邮件内容自动生成</li>
-                <li>支持个性化定制，可根据用户输入的关键词生成邮件内容</li>
-            </ul>
-        </td> 
-    </tr>
-</table>
-
-	
-</details>
-
-[👆回到目录👆](#目录)
-
-<br><br>
-
-<details open="open">
-    <summary><h1>prompt</h1></summary>
-
-<h4>prompt使用指南 中文调教指南</h4>
-<table>
-    <tr>
-        <td>
-                <a href="https://www.promptingguide.ai/zh">prompt使用指南</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-            </ul>
-        </td> 
-    </tr>
-    <tr>
-        <td>
-            <a href="https://chatguide.plexpt.com/">中文调教指南</a>
-        </td>
-        <td>
-            <ul style="list-style-type: disc;">
-            </ul>
-        </td> 
-    </tr>
-</table>
-
-	
-</details>
-
-[👆回到目录👆](#目录)
-
-<br><br><br>
-
-## ***Star History***
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Tptogiar/AI-Collection&type=Date)](https://star-history.com/#Tptogiar/AI-Collection&Date)
-
-<!--
-<hr>
-<p align="center">
-
-<br>
-</p>
--->
-
-
-
-
-
-[👆回到目录👆](#目录)
